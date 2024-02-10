@@ -27,6 +27,7 @@ public class OpenSolarService {
 
         logger.info("Response from Sunset-Sunrise API: {}", response);
 
+
         return new SolarDetail(
                 response.results().sunrise(),
                 response.results().sunset(),

@@ -18,6 +18,7 @@ public class SolarWatchController {
     private final OpenLocationService openLocationService;
     private final OpenSolarService openSolarService;
 
+
     public SolarWatchController(OpenLocationService openLocationService, OpenSolarService openSolarService) {
         this.openLocationService = openLocationService;
         this.openSolarService = openSolarService;
