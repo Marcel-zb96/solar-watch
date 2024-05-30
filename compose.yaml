@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  app:
+    image: 'solarwatch-app'
+    build:
+      context: .
+    environment:
+      - DB_URL=jdbc:postgresql://db:5432/solar_watch
+      - DB_USERNAME=postgres
+      - DB_PASSWORD=3ntrophy
+    depends_on:
+      - db
+    ports:
+      - "8080:8080"
+  db:
+    image: 'postgres:15.6-alpine'
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=3ntrophy
+      - POSTGRES_DB=solar_watch
