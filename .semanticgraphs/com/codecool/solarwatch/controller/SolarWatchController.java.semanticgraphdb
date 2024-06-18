@@ -1,0 +1,170 @@
+
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java“
+7com.codecool.solarwatch.controller.SolarWatchControllerCLASS≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java (!"-
+package"com.codecool.solarwatch.controller"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"„
+declarationStringÕ<mark class="annotation">@RestController</mark> <br><mark class="annotation">@RequestMapping("/api")</mark> <br><mark class="modifier">public </mark><mark class="modifier">class </mark>SolarWatchController"
+accesspublic*SolarWatchController2Î
+´com.codecool.solarwatch.controller.SolarWatchController.SolarWatchController(com.codecool.solarwatch.service.LocationService, com.codecool.solarwatch.service.SolarService)DECLARATION≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java (2≥
+tcom.codecool.solarwatch.controller.SolarWatchController.getSunsetSunriseDates(java.lang.String, java.time.LocalDate)DECLARATION≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java" "(22ö
+[com.codecool.solarwatch.controller.SolarWatchController.getLocationDetail(java.lang.String)DECLARATION≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java+ +("2í
+Scom.codecool.solarwatch.controller.SolarWatchController?locationService@23.34:23.49DECLARATION≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java" (12è
+Pcom.codecool.solarwatch.controller.SolarWatchController?solarService@24.31:24.43DECLARATION≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java (+à
+´com.codecool.solarwatch.controller.SolarWatchController.SolarWatchController(com.codecool.solarwatch.service.LocationService, com.codecool.solarwatch.service.SolarService)CONSTRUCTOR≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java ("í
+declarationString¸<mark class="annotation">@Autowired</mark> <br><mark class="modifier">public </mark><mark class="method">SolarWatchController</mark>(LocationService locationService<mark class="modifier"><mark class="modifier">,</mark></mark> SolarService solarService)*SolarWatchController2Ù
+ªcom.codecool.solarwatch.controller.SolarWatchController.SolarWatchController(com.codecool.solarwatch.service.LocationService, com.codecool.solarwatch.service.SolarService)!locationServiceCALL≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java (.2Ò
+∏com.codecool.solarwatch.controller.SolarWatchController.SolarWatchController(com.codecool.solarwatch.service.LocationService, com.codecool.solarwatch.service.SolarService)!solarServiceCALL≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java ((2ã
+Scom.codecool.solarwatch.controller.SolarWatchController?locationService@23.34:23.49CALL≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java (2à
+Pcom.codecool.solarwatch.controller.SolarWatchController?solarService@24.31:24.43CALL≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java (2˘
+ªcom.codecool.solarwatch.controller.SolarWatchController.SolarWatchController(com.codecool.solarwatch.service.LocationService, com.codecool.solarwatch.service.SolarService)!locationService	PARAMETER≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java0 (?2ˆ
+∏com.codecool.solarwatch.controller.SolarWatchController.SolarWatchController(com.codecool.solarwatch.service.LocationService, com.codecool.solarwatch.service.SolarService)!solarService	PARAMETER≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.javaN (Z2ˆ
+7com.codecool.solarwatch.controller.SolarWatchControllerRETURN_TYPE≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java (’
+ªcom.codecool.solarwatch.controller.SolarWatchController.SolarWatchController(com.codecool.solarwatch.service.LocationService, com.codecool.solarwatch.service.SolarService)!locationService	PARAMETER≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java0 (?"
+typeLocationService"
+isFinalfalse"4
+declarationStringLocationService locationService*locationService2Á
+/com.codecool.solarwatch.service.LocationServiceTYPE≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java  (/√
+∏com.codecool.solarwatch.controller.SolarWatchController.SolarWatchController(com.codecool.solarwatch.service.LocationService, com.codecool.solarwatch.service.SolarService)!solarService	PARAMETER≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.javaN (Z"
+typeSolarService"
+isFinalfalse".
+declarationStringSolarService solarService*solarService2‰
+,com.codecool.solarwatch.service.SolarServiceTYPE≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.javaA (M®!
+tcom.codecool.solarwatch.controller.SolarWatchController.getSunsetSunriseDates(java.lang.String, java.time.LocalDate)METHOD≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java" "(2"
+isFinalfalse"°
+declarationStringã String cityName<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="annotation">@RequestParam</mark> LocalDate date)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeResponseEntity<?>*getSunsetSunriseDates2ì
+[com.codecool.solarwatch.controller.SolarWatchController.getLocationDetail(java.lang.String)CALL≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java$ $(%2Ω
+Ñcom.codecool.solarwatch.service.SolarService.getSolarDetail(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)CALL≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java&; &(I2µ
+}com.codecool.solarwatch.controller.SolarWatchController.getSunsetSunriseDates(java.lang.String, java.time.LocalDate)!cityNameCALL≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java$& $(.2à
+Pcom.codecool.solarwatch.controller.SolarWatchController?solarService@24.31:24.43CALL≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java&. &(:2æ
+Öcom.codecool.solarwatch.controller.SolarWatchController.getSunsetSunriseDates(java.lang.String, java.time.LocalDate)?city@36.13:36.17CALL≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java&J &(N2±
+ycom.codecool.solarwatch.controller.SolarWatchController.getSunsetSunriseDates(java.lang.String, java.time.LocalDate)!dateCALL≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java&P &(T2À
+ícom.codecool.solarwatch.controller.SolarWatchController.getSunsetSunriseDates(java.lang.String, java.time.LocalDate)?sunriseSunsetInfo@38.26:38.43CALL≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java(! ((22∫
+}com.codecool.solarwatch.controller.SolarWatchController.getSunsetSunriseDates(java.lang.String, java.time.LocalDate)!cityName	PARAMETER≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java"H "(P2∂
+ycom.codecool.solarwatch.controller.SolarWatchController.getSunsetSunriseDates(java.lang.String, java.time.LocalDate)!date	PARAMETER≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java"j "(n2≈
+Öcom.codecool.solarwatch.controller.SolarWatchController.getSunsetSunriseDates(java.lang.String, java.time.LocalDate)?city@36.13:36.17DECLARATION≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java$ $(2“
+ícom.codecool.solarwatch.controller.SolarWatchController.getSunsetSunriseDates(java.lang.String, java.time.LocalDate)?sunriseSunsetInfo@38.26:38.43DECLARATION≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java& &(+2Ê
+'org.springframework.http.ResponseEntityRETURN_TYPE≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java" "(°
+
+Öcom.codecool.solarwatch.controller.SolarWatchController.getSunsetSunriseDates(java.lang.String, java.time.LocalDate)?city@36.13:36.17VARIABLE≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java$ $("
+typeCity"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark>City <mark class="class-field">city</mark> = getLocationDetail(cityName)*city2Í
+2com.codecool.solarwatch.model.location_detail.CityTYPE≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java$ $(2ì
+[com.codecool.solarwatch.controller.SolarWatchController.getLocationDetail(java.lang.String)CALL≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java$ $(%2µ
+}com.codecool.solarwatch.controller.SolarWatchController.getSunsetSunriseDates(java.lang.String, java.time.LocalDate)!cityNameCALL≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java$& $(.Ï
+ícom.codecool.solarwatch.controller.SolarWatchController.getSunsetSunriseDates(java.lang.String, java.time.LocalDate)?sunriseSunsetInfo@38.26:38.43VARIABLE≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java& &(+"
+typeSunriseSunsetInfo"
+isFinalfalse"£
+declarationStringç<mark class="modifier"> </mark>SunriseSunsetInfo <mark class="class-field">sunriseSunsetInfo</mark> = solarService.getSolarDetail(city, date)*sunriseSunsetInfo2Ù
+<com.codecool.solarwatch.model.solar_detail.SunriseSunsetInfoTYPE≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java& &(2Ω
+Ñcom.codecool.solarwatch.service.SolarService.getSolarDetail(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)CALL≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java&; &(I2à
+Pcom.codecool.solarwatch.controller.SolarWatchController?solarService@24.31:24.43CALL≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java&. &(:2æ
+Öcom.codecool.solarwatch.controller.SolarWatchController.getSunsetSunriseDates(java.lang.String, java.time.LocalDate)?city@36.13:36.17CALL≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java&J &(N2±
+ycom.codecool.solarwatch.controller.SolarWatchController.getSunsetSunriseDates(java.lang.String, java.time.LocalDate)!dateCALL≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java&P &(TÖ
+}com.codecool.solarwatch.controller.SolarWatchController.getSunsetSunriseDates(java.lang.String, java.time.LocalDate)!cityName	PARAMETER≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java"H "(P"
+typeString"
+isFinalfalse"R
+declarationString=<mark class="annotation">@RequestParam</mark> String cityName*cityName2»
+java.lang.StringTYPE≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java"A "(GÇ
+ycom.codecool.solarwatch.controller.SolarWatchController.getSunsetSunriseDates(java.lang.String, java.time.LocalDate)!date	PARAMETER≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java"j "(n"
+type	LocalDate"
+isFinalfalse"Q
+declarationString<<mark class="annotation">@RequestParam</mark> LocalDate date*date2À
+java.time.LocalDateTYPE≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java"` "(i—
+[com.codecool.solarwatch.controller.SolarWatchController.getLocationDetail(java.lang.String)METHOD≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java+ +(""
+isFinalfalse"z
+declarationStringe<mark class="modifier">private </mark>City <mark class="method">getLocationDetail</mark>(String city)"
+isStaticfalse"
+accessprivate"
+
+isAbstractfalse"
+typeCity*getLocationDetail2í
+Zcom.codecool.solarwatch.service.LocationService.getCityCoordinatesByName(java.lang.String)CALL≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java, ,(72ã
+Scom.codecool.solarwatch.controller.SolarWatchController?locationService@23.34:23.49CALL≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java, ,(2ò
+`com.codecool.solarwatch.controller.SolarWatchController.getLocationDetail(java.lang.String)!cityCALL≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java,8 ,(<2ù
+`com.codecool.solarwatch.controller.SolarWatchController.getLocationDetail(java.lang.String)!city	PARAMETER≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java+* +(.2Ò
+2com.codecool.solarwatch.model.location_detail.CityRETURN_TYPE≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java+ +(≤
+`com.codecool.solarwatch.controller.SolarWatchController.getLocationDetail(java.lang.String)!city	PARAMETER≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java+* +(."
+typeString"
+isFinalfalse" 
+declarationStringString city*city2»
+java.lang.StringTYPE≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java+# +()˙
+Scom.codecool.solarwatch.controller.SolarWatchController?locationService@23.34:23.49VALUE≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java" (1"
+isFinaltrue"
+typeLocationService"†
+declarationStringä<mark class="modifier">private </mark><mark class="modifier">final </mark>LocationService <mark class="class-field">locationService</mark>"
+isStaticfalse"
+accessprivate*locationService2Á
+/com.codecool.solarwatch.service.LocationServiceTYPE≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java (!Ë
+Pcom.codecool.solarwatch.controller.SolarWatchController?solarService@24.31:24.43VALUE≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java (+"
+isFinaltrue"
+typeSolarService"ö
+declarationStringÑ<mark class="modifier">private </mark><mark class="modifier">final </mark>SolarService <mark class="class-field">solarService</mark>"
+isStaticfalse"
+accessprivate*solarService2‰
+,com.codecool.solarwatch.service.SolarServiceTYPE≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\controller\SolarWatchController.java (

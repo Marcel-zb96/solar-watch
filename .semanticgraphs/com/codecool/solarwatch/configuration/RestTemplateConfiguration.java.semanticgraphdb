@@ -1,0 +1,47 @@
+
+™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\configuration\RestTemplateConfiguration.javaö
+?com.codecool.solarwatch.configuration.RestTemplateConfigurationCLASSµ
+™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\configuration\RestTemplateConfiguration.java (&"0
+package%com.codecool.solarwatch.configuration"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"´
+declarationStringï<mark class="annotation">@Configuration</mark> <br><mark class="modifier">public </mark><mark class="modifier">class </mark>RestTemplateConfiguration"
+accesspublic*RestTemplateConfiguration2Õ
+Öcom.codecool.solarwatch.configuration.RestTemplateConfiguration.restTemplate(org.springframework.boot.web.client.RestTemplateBuilder)DECLARATIONµ
+™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\configuration\RestTemplateConfiguration.java
+ 
+($é
+Öcom.codecool.solarwatch.configuration.RestTemplateConfiguration.restTemplate(org.springframework.boot.web.client.RestTemplateBuilder)METHODµ
+™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\configuration\RestTemplateConfiguration.java
+ 
+($"
+isFinalfalse"∑
+declarationString°<mark class="annotation">@Bean</mark> <br><mark class="modifier">public </mark>RestTemplate <mark class="method">restTemplate</mark>(RestTemplateBuilder builder)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeRestTemplate*restTemplate2Œ
+çcom.codecool.solarwatch.configuration.RestTemplateConfiguration.restTemplate(org.springframework.boot.web.client.RestTemplateBuilder)!builderCALLµ
+™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\configuration\RestTemplateConfiguration.java (2”
+çcom.codecool.solarwatch.configuration.RestTemplateConfiguration.restTemplate(org.springframework.boot.web.client.RestTemplateBuilder)!builder	PARAMETERµ
+™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\configuration\RestTemplateConfiguration.java
+9 
+(@2Ú
++org.springframework.web.client.RestTemplateRETURN_TYPEµ
+™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\configuration\RestTemplateConfiguration.java
+ 
+(∑
+çcom.codecool.solarwatch.configuration.RestTemplateConfiguration.restTemplate(org.springframework.boot.web.client.RestTemplateBuilder)!builder	PARAMETERµ
+™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\configuration\RestTemplateConfiguration.java
+9 
+(@"
+typeRestTemplateBuilder"
+isFinalfalse"0
+declarationStringRestTemplateBuilder builder*builder2˜
+7org.springframework.boot.web.client.RestTemplateBuilderTYPEµ
+™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\configuration\RestTemplateConfiguration.java
+% 
+(8

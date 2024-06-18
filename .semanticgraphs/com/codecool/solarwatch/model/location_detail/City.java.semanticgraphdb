@@ -1,0 +1,247 @@
+
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java‡ 
+2com.codecool.solarwatch.model.location_detail.CityCLASS®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java ("8
+package-com.codecool.solarwatch.model.location_detail"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"é
+declarationStringy<mark class="annotation">@Entity</mark> <br><mark class="modifier">public </mark><mark class="modifier">class </mark>City"
+accesspublic*City2÷
+õcom.codecool.solarwatch.model.location_detail.City.City(jakarta.persistence.String, double, double, jakarta.persistence.String, jakarta.persistence.String)DECLARATION®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java (2Û
+9com.codecool.solarwatch.model.location_detail.City.City()DECLARATION®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java (2ˆ
+<com.codecool.solarwatch.model.location_detail.City.getName()DECLARATION®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java   (2˙
+@com.codecool.solarwatch.model.location_detail.City.getLatitude()DECLARATION®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java$ $(2˚
+Acom.codecool.solarwatch.model.location_detail.City.getLongitude()DECLARATION®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java( ((2˘
+?com.codecool.solarwatch.model.location_detail.City.getCountry()DECLARATION®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java, ,(2˜
+=com.codecool.solarwatch.model.location_detail.City.getState()DECLARATION®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java0 0(2Ä
+Fcom.codecool.solarwatch.model.location_detail.City?city_id@11.17:11.24DECLARATION®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java (2˝
+Ccom.codecool.solarwatch.model.location_detail.City?name@12.19:12.23DECLARATION®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java (2Å
+Gcom.codecool.solarwatch.model.location_detail.City?latitude@13.19:13.27DECLARATION®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java (2Ç
+Hcom.codecool.solarwatch.model.location_detail.City?longitude@14.19:14.28DECLARATION®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java (2Ä
+Fcom.codecool.solarwatch.model.location_detail.City?country@15.19:15.26DECLARATION®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java (2˛
+Dcom.codecool.solarwatch.model.location_detail.City?state@16.19:16.24DECLARATION®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java (2é
+Tcom.codecool.solarwatch.model.location_detail.City?sunriseSunsetInfoList@19.36:19.57DECLARATION®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java$ (9¶-
+õcom.codecool.solarwatch.model.location_detail.City.City(jakarta.persistence.String, double, double, jakarta.persistence.String, jakarta.persistence.String)CONSTRUCTOR®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java ("’
+declarationStringø<mark class="modifier">public </mark><mark class="method">City</mark>(String name<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">double</mark> latitude<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">double</mark> longitude<mark class="modifier"><mark class="modifier">,</mark></mark> String country<mark class="modifier"><mark class="modifier">,</mark></mark> String state)*City2‘
+†com.codecool.solarwatch.model.location_detail.City.City(jakarta.persistence.String, double, double, jakarta.persistence.String, jakarta.persistence.String)!nameCALL®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java (2ÿ
+§com.codecool.solarwatch.model.location_detail.City.City(jakarta.persistence.String, double, double, jakarta.persistence.String, jakarta.persistence.String)!latitudeCALL®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java ( 2Ÿ
+•com.codecool.solarwatch.model.location_detail.City.City(jakarta.persistence.String, double, double, jakarta.persistence.String, jakarta.persistence.String)!longitudeCALL®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java ("2◊
+£com.codecool.solarwatch.model.location_detail.City.City(jakarta.persistence.String, double, double, jakarta.persistence.String, jakarta.persistence.String)!countryCALL®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java (2’
+°com.codecool.solarwatch.model.location_detail.City.City(jakarta.persistence.String, double, double, jakarta.persistence.String, jakarta.persistence.String)!stateCALL®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java (2ˆ
+Ccom.codecool.solarwatch.model.location_detail.City?name@12.19:12.23CALL®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java (2˙
+Gcom.codecool.solarwatch.model.location_detail.City?latitude@13.19:13.27CALL®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java (2˚
+Hcom.codecool.solarwatch.model.location_detail.City?longitude@14.19:14.28CALL®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java (2˘
+Fcom.codecool.solarwatch.model.location_detail.City?country@15.19:15.26CALL®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java (2˜
+Dcom.codecool.solarwatch.model.location_detail.City?state@16.19:16.24CALL®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java (2Ÿ
+†com.codecool.solarwatch.model.location_detail.City.City(jakarta.persistence.String, double, double, jakarta.persistence.String, jakarta.persistence.String)!name	PARAMETER®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java (2›
+§com.codecool.solarwatch.model.location_detail.City.City(jakarta.persistence.String, double, double, jakarta.persistence.String, jakarta.persistence.String)!latitude	PARAMETER®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java$ (,2ﬁ
+•com.codecool.solarwatch.model.location_detail.City.City(jakarta.persistence.String, double, double, jakarta.persistence.String, jakarta.persistence.String)!longitude	PARAMETER®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java5 (>2‹
+£com.codecool.solarwatch.model.location_detail.City.City(jakarta.persistence.String, double, double, jakarta.persistence.String, jakarta.persistence.String)!country	PARAMETER®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.javaG (N2⁄
+°com.codecool.solarwatch.model.location_detail.City.City(jakarta.persistence.String, double, double, jakarta.persistence.String, jakarta.persistence.String)!state	PARAMETER®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.javaW (\2Ï
+2com.codecool.solarwatch.model.location_detail.CityRETURN_TYPE®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java (Û
+†com.codecool.solarwatch.model.location_detail.City.City(jakarta.persistence.String, double, double, jakarta.persistence.String, jakarta.persistence.String)!name	PARAMETER®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java ("
+typeString"
+isFinalfalse" 
+declarationStringString name*name2Õ
+jakarta.persistence.StringTYPE®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java (â
+§com.codecool.solarwatch.model.location_detail.City.City(jakarta.persistence.String, double, double, jakarta.persistence.String, jakarta.persistence.String)!latitude	PARAMETER®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java$ (,"
+typedouble"
+isFinalfalse"B
+declarationString-<mark class="modifier">double</mark> latitude*latitude2π
+doubleTYPE®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java (#å
+•com.codecool.solarwatch.model.location_detail.City.City(jakarta.persistence.String, double, double, jakarta.persistence.String, jakarta.persistence.String)!longitude	PARAMETER®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java5 (>"
+typedouble"
+isFinalfalse"C
+declarationString.<mark class="modifier">double</mark> longitude*	longitude2π
+doubleTYPE®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java. (4¸
+£com.codecool.solarwatch.model.location_detail.City.City(jakarta.persistence.String, double, double, jakarta.persistence.String, jakarta.persistence.String)!country	PARAMETER®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.javaG (N"
+typeString"
+isFinalfalse"#
+declarationStringString country*country2Õ
+jakarta.persistence.StringTYPE®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java@ (Fˆ
+°com.codecool.solarwatch.model.location_detail.City.City(jakarta.persistence.String, double, double, jakarta.persistence.String, jakarta.persistence.String)!state	PARAMETER®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.javaW (\"
+typeString"
+isFinalfalse"!
+declarationStringString state*state2Õ
+jakarta.persistence.StringTYPE®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.javaP (V∆
+9com.codecool.solarwatch.model.location_detail.City.City()CONSTRUCTOR®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java ("\
+declarationStringG<mark class="modifier">public </mark><mark class="method">City</mark>()*City2Ï
+2com.codecool.solarwatch.model.location_detail.CityRETURN_TYPE®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java (é
+<com.codecool.solarwatch.model.location_detail.City.getName()METHOD®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java   ("
+isFinalfalse"f
+declarationStringQ<mark class="modifier">public </mark>String <mark class="method">getName</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*getName2ˆ
+Ccom.codecool.solarwatch.model.location_detail.City?name@12.19:12.23CALL®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java! !(2‘
+jakarta.persistence.StringRETURN_TYPE®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java   (©
+@com.codecool.solarwatch.model.location_detail.City.getLatitude()METHOD®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java$ $("
+isFinalfalse"à
+declarationStrings<mark class="modifier">public </mark><mark class="modifier">double</mark> <mark class="method">getLatitude</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typedouble*getLatitude2˙
+Gcom.codecool.solarwatch.model.location_detail.City?latitude@13.19:13.27CALL®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java% %(2¿
+doubleRETURN_TYPE®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java$ $(≠
+Acom.codecool.solarwatch.model.location_detail.City.getLongitude()METHOD®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java( (("
+isFinalfalse"â
+declarationStringt<mark class="modifier">public </mark><mark class="modifier">double</mark> <mark class="method">getLongitude</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typedouble*getLongitude2˚
+Hcom.codecool.solarwatch.model.location_detail.City?longitude@14.19:14.28CALL®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java) )(2¿
+doubleRETURN_TYPE®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java( ((ö
+?com.codecool.solarwatch.model.location_detail.City.getCountry()METHOD®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java, ,("
+isFinalfalse"i
+declarationStringT<mark class="modifier">public </mark>String <mark class="method">getCountry</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*
+getCountry2˘
+Fcom.codecool.solarwatch.model.location_detail.City?country@15.19:15.26CALL®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java- -(2‘
+jakarta.persistence.StringRETURN_TYPE®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java, ,(í
+=com.codecool.solarwatch.model.location_detail.City.getState()METHOD®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java0 0("
+isFinalfalse"g
+declarationStringR<mark class="modifier">public </mark>String <mark class="method">getState</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*getState2˜
+Dcom.codecool.solarwatch.model.location_detail.City?state@16.19:16.24CALL®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java1 1(2‘
+jakarta.persistence.StringRETURN_TYPE®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java0 0(‡
+Fcom.codecool.solarwatch.model.location_detail.City?city_id@11.17:11.24VARIABLE®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java ("
+isFinalfalse"
+typelong"◊
+declarationString¡<mark class="modifier">private </mark><mark class="modifier">long</mark> <mark class="class-field">city_id</mark> = GenerationType.SEQUENCE)
+private <mark class="modifier">long</mark> city_id;"
+isStaticfalse"
+accessprivate*city_id2∑
+longTYPE®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java (Å
+Ccom.codecool.solarwatch.model.location_detail.City?name@12.19:12.23VARIABLE®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java ("
+isFinalfalse"
+typeString"g
+declarationStringR<mark class="modifier">private </mark>String <mark class="class-field">name</mark>"
+isStaticfalse"
+accessprivate*name2Õ
+jakarta.persistence.StringTYPE®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java (ò
+Gcom.codecool.solarwatch.model.location_detail.City?latitude@13.19:13.27VARIABLE®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java ("
+isFinalfalse"
+typedouble"â
+declarationStringt<mark class="modifier">private </mark><mark class="modifier">double</mark> <mark class="class-field">latitude</mark>"
+isStaticfalse"
+accessprivate*latitude2π
+doubleTYPE®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java (õ
+Hcom.codecool.solarwatch.model.location_detail.City?longitude@14.19:14.28VARIABLE®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java ("
+isFinalfalse"
+typedouble"ä
+declarationStringu<mark class="modifier">private </mark><mark class="modifier">double</mark> <mark class="class-field">longitude</mark>"
+isStaticfalse"
+accessprivate*	longitude2π
+doubleTYPE®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java (ä
+Fcom.codecool.solarwatch.model.location_detail.City?country@15.19:15.26VARIABLE®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java ("
+isFinalfalse"
+typeString"j
+declarationStringU<mark class="modifier">private </mark>String <mark class="class-field">country</mark>"
+isStaticfalse"
+accessprivate*country2Õ
+jakarta.persistence.StringTYPE®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java (Ñ
+Dcom.codecool.solarwatch.model.location_detail.City?state@16.19:16.24VARIABLE®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java ("
+isFinalfalse"
+typeString"h
+declarationStringS<mark class="modifier">private </mark>String <mark class="class-field">state</mark>"
+isStaticfalse"
+accessprivate*state2Õ
+jakarta.persistence.StringTYPE®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java (â
+Tcom.codecool.solarwatch.model.location_detail.City?sunriseSunsetInfoList@19.36:19.57VARIABLE®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java$ (9"
+isFinalfalse"
+typeList<SunriseSunsetInfo>"Ã
+declarationString∂<mark class="modifier">private </mark>List<SunriseSunsetInfo> <mark class="class-field">sunriseSunsetInfoList</mark> = "city")
+private List<SunriseSunsetInfo> sunriseSunsetInfoList;"
+isStaticfalse"
+accessprivate*sunriseSunsetInfoList2¡
+java.util.ListTYPE®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java (2¯
+<com.codecool.solarwatch.model.solar_detail.SunriseSunsetInfoTYPE_ARGUMENT®
+ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\City.java ("

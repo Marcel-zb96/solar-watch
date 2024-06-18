@@ -1,0 +1,212 @@
+
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java©
+-com.codecool.solarwatch.security.jwt.JwtUtilsCLASS£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java ("/
+package$com.codecool.solarwatch.security.jwt"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"ñ
+declarationStringÄ<mark class="annotation">@Component</mark> <br><mark class="modifier">public </mark><mark class="modifier">class </mark>JwtUtils"
+accesspublic*JwtUtils2•
+pcom.codecool.solarwatch.security.jwt.JwtUtils.generateJwtToken(org.springframework.security.core.Authentication)DECLARATION£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java ("2Ë
+3com.codecool.solarwatch.security.jwt.JwtUtils.key()DECLARATION£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java% %(2í
+]com.codecool.solarwatch.security.jwt.JwtUtils.getUserNameFromJwtToken(io.jsonwebtoken.String)DECLARATION£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java) )()2ã
+Vcom.codecool.solarwatch.security.jwt.JwtUtils.validateJwtToken(io.jsonwebtoken.String)DECLARATION£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java. .(#2ı
+@com.codecool.solarwatch.security.jwt.JwtUtils?logger@17.32:17.38DECLARATION£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java  (&2¯
+Ccom.codecool.solarwatch.security.jwt.JwtUtils?jwtSecret@20.19:20.28DECLARATION£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java (2˛
+Icom.codecool.solarwatch.security.jwt.JwtUtils?jwtExpirationMs@23.16:23.31DECLARATION£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java (Ã
+pcom.codecool.solarwatch.security.jwt.JwtUtils.generateJwtToken(org.springframework.security.core.Authentication)METHOD£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java (""
+isFinalfalse"å
+declarationStringw<mark class="modifier">public </mark>String <mark class="method">generateJwtToken</mark>(Authentication authentication)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*generateJwtToken2∆
+java.util.Date.getTime()CALL£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java 5  (<2·
+3com.codecool.solarwatch.security.jwt.JwtUtils.key()CALL£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java! !(2√
+java.util.Date.Date()CALL£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java! (%2«
+java.util.Date.Date(long)CALL£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java #  ('2√
+java.util.Date.Date()CALL£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java -  (12≠
+com.codecool.solarwatch.security.jwt.JwtUtils.generateJwtToken(org.springframework.security.core.Authentication)!authenticationCALL£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java2 (@2π
+äcom.codecool.solarwatch.security.jwt.JwtUtils.generateJwtToken(org.springframework.security.core.Authentication)?userPrincipal@27.20:27.33CALL£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java (*2˜
+Icom.codecool.solarwatch.security.jwt.JwtUtils?jwtExpirationMs@23.16:23.31CALL£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java A  (P2≤
+com.codecool.solarwatch.security.jwt.JwtUtils.generateJwtToken(org.springframework.security.core.Authentication)!authentication	PARAMETER£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java2 (@2¿
+äcom.codecool.solarwatch.security.jwt.JwtUtils.generateJwtToken(org.springframework.security.core.Authentication)?userPrincipal@27.20:27.33DECLARATION£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java (!2À
+io.jsonwebtoken.StringRETURN_TYPE£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java (≠
+äcom.codecool.solarwatch.security.jwt.JwtUtils.generateJwtToken(org.springframework.security.core.Authentication)?userPrincipal@27.20:27.33VARIABLE£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java (!"
+typeUserDetails"
+isFinalfalse"ù
+declarationStringá<mark class="modifier"> </mark>UserDetails <mark class="class-field">userPrincipal</mark> = (UserDetails) authentication.getPrincipal()*userPrincipal2Á
+9org.springframework.security.core.userdetails.UserDetailsTYPE£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java (2≠
+com.codecool.solarwatch.security.jwt.JwtUtils.generateJwtToken(org.springframework.security.core.Authentication)!authenticationCALL£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java2 (@Å
+com.codecool.solarwatch.security.jwt.JwtUtils.generateJwtToken(org.springframework.security.core.Authentication)!authentication	PARAMETER£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java2 (@"
+typeAuthentication"
+isFinalfalse"2
+declarationStringAuthentication authentication*authentication2ﬁ
+0org.springframework.security.core.AuthenticationTYPE£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java# (1·
+3com.codecool.solarwatch.security.jwt.JwtUtils.key()METHOD£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java% %("
+isFinalfalse"`
+declarationStringK<mark class="modifier">private </mark>Key <mark class="method">key</mark>()"
+isStaticfalse"
+accessprivate"
+
+isAbstractfalse"
+typeKey*key2Ò
+Ccom.codecool.solarwatch.security.jwt.JwtUtils?jwtSecret@20.19:20.28CALL£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java&9 &(B2∆
+java.security.KeyRETURN_TYPE£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java% %(Ê
+]com.codecool.solarwatch.security.jwt.JwtUtils.getUserNameFromJwtToken(io.jsonwebtoken.String)METHOD£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java) )()"
+isFinalfalse"Ç
+declarationStringm<mark class="modifier">public </mark>String <mark class="method">getUserNameFromJwtToken</mark>(String token)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*getUserNameFromJwtToken2·
+3com.codecool.solarwatch.security.jwt.JwtUtils.key()CALL£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java*2 *(52ë
+ccom.codecool.solarwatch.security.jwt.JwtUtils.getUserNameFromJwtToken(io.jsonwebtoken.String)!tokenCALL£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java+  +(%2ñ
+ccom.codecool.solarwatch.security.jwt.JwtUtils.getUserNameFromJwtToken(io.jsonwebtoken.String)!token	PARAMETER£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java)1 )(62À
+io.jsonwebtoken.StringRETURN_TYPE£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java) )(©
+ccom.codecool.solarwatch.security.jwt.JwtUtils.getUserNameFromJwtToken(io.jsonwebtoken.String)!token	PARAMETER£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java)1 )(6"
+typeString"
+isFinalfalse"!
+declarationStringString token*token2ƒ
+io.jsonwebtoken.StringTYPE£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java)* )(0È$
+Vcom.codecool.solarwatch.security.jwt.JwtUtils.validateJwtToken(io.jsonwebtoken.String)METHOD£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java. .(#"
+isFinalfalse"ü
+declarationStringâ<mark class="modifier">public </mark><mark class="modifier">boolean</mark> <mark class="method">validateJwtToken</mark>(String authToken)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeboolean*validateJwtToken2·
+3com.codecool.solarwatch.security.jwt.JwtUtils.key()CALL£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java0/ 0(22é
+`com.codecool.solarwatch.security.jwt.JwtUtils.validateJwtToken(io.jsonwebtoken.String)!authTokenCALL£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java0D 0(M2Ó
+@com.codecool.solarwatch.security.jwt.JwtUtils?logger@17.32:17.38CALL£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java3 3(2í
+dcom.codecool.solarwatch.security.jwt.JwtUtils.validateJwtToken(io.jsonwebtoken.String)?e@50.39:50.40CALL£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java32 3(32Ó
+@com.codecool.solarwatch.security.jwt.JwtUtils?logger@17.32:17.38CALL£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java5 5(2í
+dcom.codecool.solarwatch.security.jwt.JwtUtils.validateJwtToken(io.jsonwebtoken.String)?e@52.37:52.38CALL£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java55 5(62Ó
+@com.codecool.solarwatch.security.jwt.JwtUtils?logger@17.32:17.38CALL£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java7 7(2í
+dcom.codecool.solarwatch.security.jwt.JwtUtils.validateJwtToken(io.jsonwebtoken.String)?e@54.41:54.42CALL£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java79 7(:2Ó
+@com.codecool.solarwatch.security.jwt.JwtUtils?logger@17.32:17.38CALL£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java9 9(2í
+dcom.codecool.solarwatch.security.jwt.JwtUtils.validateJwtToken(io.jsonwebtoken.String)?e@56.42:56.43CALL£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java9; 9(<2ì
+`com.codecool.solarwatch.security.jwt.JwtUtils.validateJwtToken(io.jsonwebtoken.String)!authToken	PARAMETER£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java.+ .(42ô
+dcom.codecool.solarwatch.security.jwt.JwtUtils.validateJwtToken(io.jsonwebtoken.String)?e@50.39:50.40DECLARATION£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java2' 2((2ô
+dcom.codecool.solarwatch.security.jwt.JwtUtils.validateJwtToken(io.jsonwebtoken.String)?e@52.37:52.38DECLARATION£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java4% 4(&2ô
+dcom.codecool.solarwatch.security.jwt.JwtUtils.validateJwtToken(io.jsonwebtoken.String)?e@54.41:54.42DECLARATION£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java6) 6(*2ô
+dcom.codecool.solarwatch.security.jwt.JwtUtils.validateJwtToken(io.jsonwebtoken.String)?e@56.42:56.43DECLARATION£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java8* 8(+2º
+booleanRETURN_TYPE£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java. .(Æ
+`com.codecool.solarwatch.security.jwt.JwtUtils.validateJwtToken(io.jsonwebtoken.String)!authToken	PARAMETER£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java.+ .(4"
+typeString"
+isFinalfalse"%
+declarationStringString authToken*	authToken2ƒ
+io.jsonwebtoken.StringTYPE£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java.$ .(*Œ
+dcom.codecool.solarwatch.security.jwt.JwtUtils.validateJwtToken(io.jsonwebtoken.String)?e@50.39:50.40VARIABLE£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java2' 2(("
+typeMalformedJwtException"
+isFinalfalse",
+declarationStringMalformedJwtException e*e2”
+%io.jsonwebtoken.MalformedJwtExceptionTYPE£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java2 2(&»
+dcom.codecool.solarwatch.security.jwt.JwtUtils.validateJwtToken(io.jsonwebtoken.String)?e@52.37:52.38VARIABLE£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java4% 4(&"
+typeExpiredJwtException"
+isFinalfalse"*
+declarationStringExpiredJwtException e*e2—
+#io.jsonwebtoken.ExpiredJwtExceptionTYPE£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java4 4($‘
+dcom.codecool.solarwatch.security.jwt.JwtUtils.validateJwtToken(io.jsonwebtoken.String)?e@54.41:54.42VARIABLE£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java6) 6(*"
+typeUnsupportedJwtException"
+isFinalfalse".
+declarationStringUnsupportedJwtException e*e2’
+'io.jsonwebtoken.UnsupportedJwtExceptionTYPE£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java6 6((◊
+dcom.codecool.solarwatch.security.jwt.JwtUtils.validateJwtToken(io.jsonwebtoken.String)?e@56.42:56.43VARIABLE£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java8* 8(+" 
+typeIllegalArgumentException"
+isFinalfalse"/
+declarationStringIllegalArgumentException e*e2÷
+(io.jsonwebtoken.IllegalArgumentExceptionTYPE£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java8 8()ﬂ
+@com.codecool.solarwatch.security.jwt.JwtUtils?logger@17.32:17.38VALUE£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java  (&"
+isFinaltrue"
+typeLogger"ﬁ
+declarationString»<mark class="modifier">private </mark><mark class="modifier">static </mark><mark class="modifier">final </mark>Logger <mark class="class-field">logger</mark> = LoggerFactory.getLogger(JwtUtils.class);"
+isStatictrue"
+accessprivate*logger2æ
+org.slf4j.LoggerTYPE£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java (˝
+Ccom.codecool.solarwatch.security.jwt.JwtUtils?jwtSecret@20.19:20.28VARIABLE£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java ("
+isFinalfalse"
+typeString"l
+declarationStringW<mark class="modifier">private </mark>String <mark class="class-field">jwtSecret</mark>"
+isStaticfalse"
+accessprivate*	jwtSecret2ƒ
+io.jsonwebtoken.StringTYPE£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java (ï
+Icom.codecool.solarwatch.security.jwt.JwtUtils?jwtExpirationMs@23.16:23.31VARIABLE£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java ("
+isFinalfalse"
+typeint"ç
+declarationStringx<mark class="modifier">private </mark><mark class="modifier">int</mark> <mark class="class-field">jwtExpirationMs</mark>"
+isStaticfalse"
+accessprivate*jwtExpirationMs2±
+intTYPE£
+òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\JwtUtils.java (

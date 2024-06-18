@@ -1,0 +1,83 @@
+
+ñC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\UserService.java±
+
++com.codecool.solarwatch.service.UserServiceCLASS°
+ñC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\UserService.java ("*
+packagecom.codecool.solarwatch.service"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"ó
+declarationStringÅ<mark class="annotation">@Service</mark> <br><mark class="modifier">public </mark><mark class="modifier">class </mark>UserService"
+accesspublic*UserService2ù
+jcom.codecool.solarwatch.service.UserService.UserService(com.codecool.solarwatch.repository.UserRepository)DECLARATION°
+ñC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\UserService.java (2ö
+gcom.codecool.solarwatch.service.UserService.createUser(com.codecool.solarwatch.model.entity.UserEntity)DECLARATION°
+ñC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\UserService.java (2˜
+Dcom.codecool.solarwatch.service.UserService?userRepository@9.33:9.47DECLARATION°
+ñC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\UserService.java	! 	(/÷
+jcom.codecool.solarwatch.service.UserService.UserService(com.codecool.solarwatch.repository.UserRepository)CONSTRUCTOR°
+ñC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\UserService.java ("Ä
+declarationStringk<mark class="modifier">public </mark><mark class="method">UserService</mark>(UserRepository userRepository)*UserService2•
+ycom.codecool.solarwatch.service.UserService.UserService(com.codecool.solarwatch.repository.UserRepository)!userRepositoryCALL°
+ñC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\UserService.java (,2
+Dcom.codecool.solarwatch.service.UserService?userRepository@9.33:9.47CALL°
+ñC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\UserService.java (2™
+ycom.codecool.solarwatch.service.UserService.UserService(com.codecool.solarwatch.repository.UserRepository)!userRepository	PARAMETER°
+ñC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\UserService.java& (42ﬁ
++com.codecool.solarwatch.service.UserServiceRETURN_TYPE°
+ñC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\UserService.java (¯
+ycom.codecool.solarwatch.service.UserService.UserService(com.codecool.solarwatch.repository.UserRepository)!userRepository	PARAMETER°
+ñC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\UserService.java& (4"
+typeUserRepository"
+isFinalfalse"2
+declarationStringUserRepository userRepository*userRepository2›
+1com.codecool.solarwatch.repository.UserRepositoryTYPE°
+ñC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\UserService.java (%◊
+gcom.codecool.solarwatch.service.UserService.createUser(com.codecool.solarwatch.model.entity.UserEntity)METHOD°
+ñC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\UserService.java ("
+isFinalfalse"î
+declarationString<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">createUser</mark>(UserEntity user)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*
+createUser2Ÿ
+-java.io.PrintStream.println(java.lang.Object)CALL°
+ñC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\UserService.java (2Ÿ
+-java.io.PrintStream.println(java.lang.String)CALL°
+ñC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\UserService.java (2˘
+Mjava.lang.IllegalArgumentException.IllegalArgumentException(java.lang.String)CALL°
+ñC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\UserService.java (.2ò
+lcom.codecool.solarwatch.service.UserService.createUser(com.codecool.solarwatch.model.entity.UserEntity)!userCALL°
+ñC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\UserService.java (2
+Dcom.codecool.solarwatch.service.UserService?userRepository@9.33:9.47CALL°
+ñC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\UserService.java (2ò
+lcom.codecool.solarwatch.service.UserService.createUser(com.codecool.solarwatch.model.entity.UserEntity)!userCALL°
+ñC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\UserService.java3 (72
+Dcom.codecool.solarwatch.service.UserService?userRepository@9.33:9.47CALL°
+ñC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\UserService.java (2ò
+lcom.codecool.solarwatch.service.UserService.createUser(com.codecool.solarwatch.model.entity.UserEntity)!userCALL°
+ñC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\UserService.java  ($2ù
+lcom.codecool.solarwatch.service.UserService.createUser(com.codecool.solarwatch.model.entity.UserEntity)!user	PARAMETER°
+ñC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\UserService.java& (*2∑
+voidRETURN_TYPE°
+ñC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\UserService.java (Õ
+lcom.codecool.solarwatch.service.UserService.createUser(com.codecool.solarwatch.model.entity.UserEntity)!user	PARAMETER°
+ñC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\UserService.java& (*"
+type
+UserEntity"
+isFinalfalse"$
+declarationStringUserEntity user*user2€
+/com.codecool.solarwatch.model.entity.UserEntityTYPE°
+ñC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\UserService.java (%—
+Dcom.codecool.solarwatch.service.UserService?userRepository@9.33:9.47VALUE°
+ñC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\UserService.java	! 	(/"
+isFinaltrue"
+typeUserRepository"û
+declarationStringà<mark class="modifier">private </mark><mark class="modifier">final </mark>UserRepository <mark class="class-field">userRepository</mark>"
+isStaticfalse"
+accessprivate*userRepository2›
+1com.codecool.solarwatch.repository.UserRepositoryTYPE°
+ñC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\UserService.java	 	( 

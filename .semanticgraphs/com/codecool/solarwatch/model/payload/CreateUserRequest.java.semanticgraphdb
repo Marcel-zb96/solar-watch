@@ -1,0 +1,33 @@
+
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\payload\CreateUserRequest.javaπ
+7com.codecool.solarwatch.model.payload.CreateUserRequestCLASS≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\payload\CreateUserRequest.java ("0
+package%com.codecool.solarwatch.model.payload"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"ö
+declarationStringÑ<mark class="annotation">@Data</mark> <br><mark class="modifier">public </mark><mark class="modifier">class </mark>CreateUserRequest"
+accesspublic*CreateUserRequest2â
+Jcom.codecool.solarwatch.model.payload.CreateUserRequest?username@5.19:5.27DECLARATION≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\payload\CreateUserRequest.java (2â
+Jcom.codecool.solarwatch.model.payload.CreateUserRequest?password@6.19:6.27DECLARATION≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\payload\CreateUserRequest.java (ê
+Jcom.codecool.solarwatch.model.payload.CreateUserRequest?username@5.19:5.27VARIABLE≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\payload\CreateUserRequest.java ("
+isFinalfalse"
+typeString"k
+declarationStringV<mark class="modifier">private </mark>String <mark class="class-field">username</mark>"
+isStaticfalse"
+accessprivate*username2»
+java.lang.StringTYPE≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\payload\CreateUserRequest.java (ê
+Jcom.codecool.solarwatch.model.payload.CreateUserRequest?password@6.19:6.27VARIABLE≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\payload\CreateUserRequest.java ("
+isFinalfalse"
+typeString"k
+declarationStringV<mark class="modifier">private </mark>String <mark class="class-field">password</mark>"
+isStaticfalse"
+accessprivate*password2»
+java.lang.StringTYPE≠
+¢C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\payload\CreateUserRequest.java (

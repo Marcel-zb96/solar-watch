@@ -1,0 +1,47 @@
+
+œC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\payload\JwtResponse.javaö
+
+1com.codecool.solarwatch.model.payload.JwtResponseCLASS§
+œC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\payload\JwtResponse.java ("0
+package%com.codecool.solarwatch.model.payload"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"ƒ
+declarationStringí<mark class="annotation">@Data</mark> <br><mark class="annotation">@NoArgsConstructor</mark> <br><mark class="annotation">@AllArgsConstructor</mark> <br><mark class="modifier">public </mark><mark class="modifier">class </mark>JwtResponse"
+accesspublic*JwtResponse2ú
+Acom.codecool.solarwatch.model.payload.JwtResponse?jwt@13.19:13.22DECLARATION§
+œC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\payload\JwtResponse.java (2ÿ
+Fcom.codecool.solarwatch.model.payload.JwtResponse?userName@14.19:14.27DECLARATION§
+œC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\payload\JwtResponse.java (2ü
+Ccom.codecool.solarwatch.model.payload.JwtResponse?roles@15.25:15.30DECLARATION§
+œC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\payload\JwtResponse.java (ñ
+Acom.codecool.solarwatch.model.payload.JwtResponse?jwt@13.19:13.22VARIABLE§
+œC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\payload\JwtResponse.java ("
+isFinalfalse"
+typeString"f
+declarationStringQ<mark class="modifier">private </mark>String <mark class="class-field">jwt</mark>"
+isStaticfalse"
+accessprivate*jwt2Â
+java.lang.StringTYPE§
+œC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\payload\JwtResponse.java (€
+Fcom.codecool.solarwatch.model.payload.JwtResponse?userName@14.19:14.27VARIABLE§
+œC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\payload\JwtResponse.java ("
+isFinalfalse"
+typeString"k
+declarationStringV<mark class="modifier">private </mark>String <mark class="class-field">userName</mark>"
+isStaticfalse"
+accessprivate*userName2Â
+java.lang.StringTYPE§
+œC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\payload\JwtResponse.java (Ï
+Ccom.codecool.solarwatch.model.payload.JwtResponse?roles@15.25:15.30VARIABLE§
+œC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\payload\JwtResponse.java ("
+isFinalfalse"
+typeList<String>"n
+declarationStringY<mark class="modifier">private </mark>List<String> <mark class="class-field">roles</mark>"
+isStaticfalse"
+accessprivate*roles2À
+java.util.ListTYPE§
+œC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\payload\JwtResponse.java (2Ë
+java.lang.StringTYPE_ARGUMENT§
+œC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\payload\JwtResponse.java (

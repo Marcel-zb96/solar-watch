@@ -1,0 +1,22 @@
+
+¥C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\exception\geo\InvalidCityException.javaª
+:com.codecool.solarwatch.exception.geo.InvalidCityExceptionCLASS°
+¥C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\exception\geo\InvalidCityException.java (!"0
+package%com.codecool.solarwatch.exception.geo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"ª
+declarationString”<mark class="modifier">public </mark><mark class="modifier">class </mark>InvalidCityException<mark class="modifier"> extends </mark>RuntimeException"
+accesspublic*InvalidCityException2“
+Qcom.codecool.solarwatch.exception.geo.InvalidCityException.InvalidCityException()DECLARATION°
+¥C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\exception\geo\InvalidCityException.java (2×
+java.lang.RuntimeExceptionEXTEND°
+¥C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\exception\geo\InvalidCityException.java* (:‘
+Qcom.codecool.solarwatch.exception.geo.InvalidCityException.InvalidCityException()CONSTRUCTOR°
+¥C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\exception\geo\InvalidCityException.java ("l
+declarationStringW<mark class="modifier">public </mark><mark class="method">InvalidCityException</mark>()*InvalidCityException2ø
+=java.lang.RuntimeException.RuntimeException(java.lang.String)CALL°
+¥C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\exception\geo\InvalidCityException.java# ((2ü
+:com.codecool.solarwatch.exception.geo.InvalidCityExceptionRETURN_TYPE°
+¥C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\exception\geo\InvalidCityException.java (

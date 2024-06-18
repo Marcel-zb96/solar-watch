@@ -1,0 +1,30 @@
+
+§C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\configuration\WebClientConfiguration.javaÍ
+<com.codecool.solarwatch.configuration.WebClientConfigurationCLASS²
+§C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\configuration\WebClientConfiguration.java (#"0
+package%com.codecool.solarwatch.configuration"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"¨
+declarationString’<mark class="annotation">@Configuration</mark> <br><mark class="modifier">public </mark><mark class="modifier">class </mark>WebClientConfiguration"
+accesspublic*WebClientConfiguration2Œ
+Hcom.codecool.solarwatch.configuration.WebClientConfiguration.webClient()DECLARATION²
+§C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\configuration\WebClientConfiguration.java
+ 
+(‹
+Hcom.codecool.solarwatch.configuration.WebClientConfiguration.webClient()METHOD²
+§C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\configuration\WebClientConfiguration.java
+ 
+("
+isFinalfalse"–
+declarationString€<mark class="annotation">@Bean</mark> <br><mark class="modifier">public </mark>WebClient <mark class="method">webClient</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+type	WebClient*	webClient2þ
+:org.springframework.web.reactive.function.client.WebClientRETURN_TYPE²
+§C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\configuration\WebClientConfiguration.java
+ 
+(
