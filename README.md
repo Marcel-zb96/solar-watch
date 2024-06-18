@@ -74,7 +74,7 @@ DB_USERNAME=<your psql username>
 DB_PASSWORD=<your psql pasword>
 ```
 
-###  Running solar-watch-cv
+###  Running solar watch
 
 Use the following command to build solarwatch application:
 
@@ -87,4 +87,22 @@ Use the following command to run solarwatch application:
 ```sh
 java -jar target/solar-watch-0.0.1-SNAPSHOT.jar
 ```
+
+###  Running solar watch with Docker
+
+Ensure that docker is runing in your computer.
+
+Set the pollowing environment variables:
+
+```
+DB_USERNAME=<sour username>
+DB_PASSWORD=<your password>
+```
+
+Use the following command to run alpplication in docker:
+
+```
+docker compose up
+```
 ---
+
