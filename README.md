@@ -28,13 +28,13 @@
 
 ##  Overview
 
-This school project is designed for educational purposes, focusing on gaining experience with the Spring Boot framework for Java.  `overview`
+This school project is designed for educational purposes, focusing on gaining experience with the Spring Boot framework for Java. It is a backend project providing endpoints for getting the sunset and sunrise times for a user selected location. 
 
 ---
 
 ##  Features
 
-Find sunrise and sunset times for the cities you search, with user authentication integrated. `features`
+Find sunrise and sunset times for the cities you search, with user authentication integrated.
 
 ---
 
