@@ -76,7 +76,13 @@ DB_PASSWORD=<your psql pasword>
 
 ###  Running solar-watch-cv
 
-Use the following command to run solarwatch:
+Use the following command to build solarwatch application:
+
+```sh
+mvn clean package
+```
+
+Use the following command to run solarwatch application:
 
 ```sh
 java -jar target/solar-watch-0.0.1-SNAPSHOT.jar
