@@ -1,56 +1,0 @@
-
-úC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\UserRepository.java¶
-1com.codecool.solarwatch.repository.UserRepositoryTRAITß
-úC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\UserRepository.java	 	("-
-package"com.codecool.solarwatch.repository"
-isFinalfalse"
-inner classfalse"
-
-isAbstractfalse"Á
-declarationString—<mark class="annotation">@Repository</mark> <br><mark class="modifier">public </mark><mark class="modifier">interface </mark>UserRepository<mark class="modifier"> extends </mark>JpaRepository<UserEntity, Long>"
-accesspublic*UserRepository2î
-[com.codecool.solarwatch.repository.UserRepository.getUserEntityByUsername(java.lang.String)DECLARATIONß
-úC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\UserRepository.java
- 
-(02È
-5org.springframework.data.jpa.repository.JpaRepositoryEXTENDß
-úC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\UserRepository.java	( 	(52Ò
-/com.codecool.solarwatch.model.entity.UserEntityEXTEND_TYPE_ARGUMENTß
-úC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\UserRepository.java	6 	(@2–
-java.lang.LongEXTEND_TYPE_ARGUMENTß
-úC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\UserRepository.java	B 	(Fâ
-
-[com.codecool.solarwatch.repository.UserRepository.getUserEntityByUsername(java.lang.String)METHODß
-úC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\UserRepository.java
- 
-(0"
-isFinalfalse"è
-declarationStringz<mark class="modifier"> </mark>Optional&lt;UserEntity&gt; <mark class="method">getUserEntityByUsername</mark>(String name)"
-isStaticfalse"
-accesspackage_private"
-
-isAbstractfalse"
-typeOptional<UserEntity>*getUserEntityByUsername2ó
-`com.codecool.solarwatch.repository.UserRepository.getUserEntityByUsername(java.lang.String)!name	PARAMETERß
-úC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\UserRepository.java
-8 
-(<2À
-java.util.OptionalRETURN_TYPEß
-úC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\UserRepository.java
- 
-(2Ò
-/com.codecool.solarwatch.model.entity.UserEntityRETURN_TYPE_ARGUMENTß
-úC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\UserRepository.java
- 
-(¶
-`com.codecool.solarwatch.repository.UserRepository.getUserEntityByUsername(java.lang.String)!name	PARAMETERß
-úC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\UserRepository.java
-8 
-(<"
-typeString"
-isFinalfalse" 
-declarationStringString name*name2¬
-java.lang.StringTYPEß
-úC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\UserRepository.java
-1 
-(7

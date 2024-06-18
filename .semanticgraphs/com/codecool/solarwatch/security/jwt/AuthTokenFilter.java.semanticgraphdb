@@ -1,265 +1,0 @@
-
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java√
-4com.codecool.solarwatch.security.jwt.AuthTokenFilterCLASS™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java ("/
-package$com.codecool.solarwatch.security.jwt"
-isFinalfalse"
-inner classfalse"
-
-isAbstractfalse"©
-declarationStringì<mark class="modifier">public </mark><mark class="modifier">class </mark>AuthTokenFilter<mark class="modifier"> extends </mark>OncePerRequestFilter"
-accesspublic*AuthTokenFilter2Ú
-µcom.codecool.solarwatch.security.jwt.AuthTokenFilter.AuthTokenFilter(com.codecool.solarwatch.security.jwt.JwtUtils, org.springframework.security.core.userdetails.UserDetailsService)DECLARATION™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java (2Ú
-µcom.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)DECLARATION™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java   (#2¢
-fcom.codecool.solarwatch.security.jwt.AuthTokenFilter.parseJwt(jakarta.servlet.http.HttpServletRequest)DECLARATION™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java4 4(2É
-Gcom.codecool.solarwatch.security.jwt.AuthTokenFilter?logger@20.32:20.38DECLARATION™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java  (&2Ö
-Icom.codecool.solarwatch.security.jwt.AuthTokenFilter?jwtUtils@22.27:22.35DECLARATION™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java (#2è
-Scom.codecool.solarwatch.security.jwt.AuthTokenFilter?userDetailsService@24.37:24.55DECLARATION™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java% (72Í
-3org.springframework.web.filter.OncePerRequestFilterEXTEND™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java% (9€
-µcom.codecool.solarwatch.security.jwt.AuthTokenFilter.AuthTokenFilter(com.codecool.solarwatch.security.jwt.JwtUtils, org.springframework.security.core.userdetails.UserDetailsService)CONSTRUCTOR™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java ("‹
-declarationString∆<mark class="modifier">public </mark><mark class="method">AuthTokenFilter</mark>(JwtUtils jwtUtils<mark class="modifier"><mark class="modifier">,</mark></mark> UserDetailsService userDetailsService)*AuthTokenFilter2Ù
-æcom.codecool.solarwatch.security.jwt.AuthTokenFilter.AuthTokenFilter(com.codecool.solarwatch.security.jwt.JwtUtils, org.springframework.security.core.userdetails.UserDetailsService)!jwtUtilsCALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java ( 2˛
-»com.codecool.solarwatch.security.jwt.AuthTokenFilter.AuthTokenFilter(com.codecool.solarwatch.security.jwt.JwtUtils, org.springframework.security.core.userdetails.UserDetailsService)!userDetailsServiceCALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java" (42˛
-Icom.codecool.solarwatch.security.jwt.AuthTokenFilter?jwtUtils@22.27:22.35CALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java (2à
-Scom.codecool.solarwatch.security.jwt.AuthTokenFilter?userDetailsService@24.37:24.55CALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java (2˘
-æcom.codecool.solarwatch.security.jwt.AuthTokenFilter.AuthTokenFilter(com.codecool.solarwatch.security.jwt.JwtUtils, org.springframework.security.core.userdetails.UserDetailsService)!jwtUtils	PARAMETER™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java$ (,2É
-»com.codecool.solarwatch.security.jwt.AuthTokenFilter.AuthTokenFilter(com.codecool.solarwatch.security.jwt.JwtUtils, org.springframework.security.core.userdetails.UserDetailsService)!userDetailsService	PARAMETER™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.javaA (S2
-4com.codecool.solarwatch.security.jwt.AuthTokenFilterRETURN_TYPE™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java (¥
-æcom.codecool.solarwatch.security.jwt.AuthTokenFilter.AuthTokenFilter(com.codecool.solarwatch.security.jwt.JwtUtils, org.springframework.security.core.userdetails.UserDetailsService)!jwtUtils	PARAMETER™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java$ (,"
-typeJwtUtils"
-isFinalfalse"&
-declarationStringJwtUtils jwtUtils*jwtUtils2‚
--com.codecool.solarwatch.security.jwt.JwtUtilsTYPE™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java (#˘
-»com.codecool.solarwatch.security.jwt.AuthTokenFilter.AuthTokenFilter(com.codecool.solarwatch.security.jwt.JwtUtils, org.springframework.security.core.userdetails.UserDetailsService)!userDetailsService	PARAMETER™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.javaA (S"
-typeUserDetailsService"
-isFinalfalse":
-declarationString%UserDetailsService userDetailsService*userDetailsService2ı
-@org.springframework.security.core.userdetails.UserDetailsServiceTYPE™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java. (@˛U
-µcom.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)METHOD™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java   (#"
-isFinalfalse"£
-declarationStringç<mark class="annotation">@Override</mark> <br><mark class="modifier">protected </mark><mark class="modifier">void</mark> <mark class="method">doFilterInternal</mark>(HttpServletRequest request<mark class="modifier"><mark class="modifier">,</mark></mark> HttpServletResponse response<mark class="modifier"><mark class="modifier">,</mark></mark> FilterChain filterChain)<mark class="modifier"> <mark class="modifier">throws</mark> </mark>ServletException<mark class="modifier"><mark class="modifier">,</mark></mark> IOException"
-isStaticfalse"
-access	protected"
-
-isAbstractfalse"
-typevoid*doFilterInternal2õ
-fcom.codecool.solarwatch.security.jwt.AuthTokenFilter.parseJwt(jakarta.servlet.http.HttpServletRequest)CALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java" "(!2Û
-Ωcom.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)!requestCALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java"" "()2˚
-≈com.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)?jwt@34.19:34.22CALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java# #(2˛
-Icom.codecool.solarwatch.security.jwt.AuthTokenFilter?jwtUtils@22.27:22.35CALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java# #('2˚
-≈com.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)?jwt@34.19:34.22CALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java#9 #(<2˛
-Icom.codecool.solarwatch.security.jwt.AuthTokenFilter?jwtUtils@22.27:22.35CALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java$" $(*2˚
-≈com.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)?jwt@34.19:34.22CALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java$C $(F2à
-Scom.codecool.solarwatch.security.jwt.AuthTokenFilter?userDetailsService@24.37:24.55CALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java&* &(<2Ä
- com.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)?username@36.23:36.31CALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java&P &(X2É
-Õcom.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)?userDetails@38.28:38.39CALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java'm '(x2É
-Õcom.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)?userDetails@38.28:38.39CALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java( ((#2Ü
-–com.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)?authentication@39.52:39.66CALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java) )(2Û
-Ωcom.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)!requestCALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java)\ )(c2Ü
-–com.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)?authentication@39.52:39.66CALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java+E +(S2¸
-Gcom.codecool.solarwatch.security.jwt.AuthTokenFilter?logger@20.32:20.38CALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java. .(2˘
-√com.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)?e@45.27:45.28CALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java.; .(<2˜
-¡com.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)!filterChainCALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java1 1(2Û
-Ωcom.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)!requestCALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java1 1($2Ù
-æcom.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)!responseCALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java1& 1(.2¯
-Ωcom.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)!request	PARAMETER™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java 7  (>2˘
-æcom.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)!response	PARAMETER™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java T  (\2¸
-¡com.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)!filterChain	PARAMETER™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java j  (u2Ç
-≈com.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)?jwt@34.19:34.22DECLARATION™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java" "(2á
- com.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)?username@36.23:36.31DECLARATION™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java$ $(2ä
-Õcom.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)?userDetails@38.28:38.39DECLARATION™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java& &('2ç
-–com.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)?authentication@39.52:39.66DECLARATION™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java'4 '(B2Ä
-√com.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)?e@45.27:45.28DECLARATION™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java- -(2¿
-voidRETURN_TYPE™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java   (˜
-
-≈com.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)?jwt@34.19:34.22VARIABLE™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java" "("
-typeString"
-isFinalfalse"s
-declarationString^<mark class="modifier"> </mark>String <mark class="class-field">jwt</mark> = parseJwt(request)*jwt2≈
-java.lang.StringTYPE™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java" "(2õ
-fcom.codecool.solarwatch.security.jwt.AuthTokenFilter.parseJwt(jakarta.servlet.http.HttpServletRequest)CALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java" "(!2Û
-Ωcom.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)!requestCALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java"" "()Ü
- com.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)?username@36.23:36.31VARIABLE™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java$ $("
-typeString"
-isFinalfalse"å
-declarationStringw<mark class="modifier"> </mark>String <mark class="class-field">username</mark> = jwtUtils.getUserNameFromJwtToken(jwt)*username2≈
-java.lang.StringTYPE™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java$ $(2˛
-Icom.codecool.solarwatch.security.jwt.AuthTokenFilter?jwtUtils@22.27:22.35CALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java$" $(*2˚
-≈com.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)?jwt@34.19:34.22CALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java$C $(F‹
-Õcom.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)?userDetails@38.28:38.39VARIABLE™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java& &('"
-typeUserDetails"
-isFinalfalse"ü
-declarationStringâ<mark class="modifier"> </mark>UserDetails <mark class="class-field">userDetails</mark> = userDetailsService.loadUserByUsername(username)*userDetails2Ó
-9org.springframework.security.core.userdetails.UserDetailsTYPE™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java& &(2à
-Scom.codecool.solarwatch.security.jwt.AuthTokenFilter?userDetailsService@24.37:24.55CALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java&* &(<2Ä
- com.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)?username@36.23:36.31CALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java&P &(Xé
-–com.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)?authentication@39.52:39.66VARIABLE™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java'4 '(B"+
-type#UsernamePasswordAuthenticationToken"
-isFinalfalse"ü
-declarationStringâ<mark class="modifier"> </mark>UsernamePasswordAuthenticationToken <mark class="class-field">authentication</mark> = new UsernamePasswordAuthenticationToken(userDetails, <mark class="modifier">null</mark><mark class="modifier">,</mark> userDetails.getAuthorities())*authentication2Ñ
-Oorg.springframework.security.authentication.UsernamePasswordAuthenticationTokenTYPE™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java' '(32É
-Õcom.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)?userDetails@38.28:38.39CALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java'm '(x2É
-Õcom.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)?userDetails@38.28:38.39CALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java( ((#ø
-Ωcom.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)!request	PARAMETER™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java 7  (>"
-typeHttpServletRequest"
-isFinalfalse"/
-declarationStringHttpServletRequest request*request2‹
-'jakarta.servlet.http.HttpServletRequestTYPE™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java $  (6≈
-æcom.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)!response	PARAMETER™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java T  (\"
-typeHttpServletResponse"
-isFinalfalse"1
-declarationStringHttpServletResponse response*response2›
-(jakarta.servlet.http.HttpServletResponseTYPE™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java @  (S±
-¡com.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)!filterChain	PARAMETER™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java j  (u"
-typeFilterChain"
-isFinalfalse",
-declarationStringFilterChain filterChain*filterChain2–
-jakarta.servlet.FilterChainTYPE™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java ^  (ií
-√com.codecool.solarwatch.security.jwt.AuthTokenFilter.doFilterInternal(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, jakarta.servlet.FilterChain)?e@45.27:45.28VARIABLE™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java- -("
-type	Exception"
-isFinalfalse" 
-declarationStringException e*e2»
-java.lang.ExceptionTYPE™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java- -(¿
-fcom.codecool.solarwatch.security.jwt.AuthTokenFilter.parseJwt(jakarta.servlet.http.HttpServletRequest)METHOD™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java4 4("
-isFinalfalse"Ç
-declarationStringm<mark class="modifier">private </mark>String <mark class="method">parseJwt</mark>(HttpServletRequest request)"
-isStaticfalse"
-accessprivate"
-
-isAbstractfalse"
-typeString*parseJwt2‚
--java.lang.String.startsWith(java.lang.String)CALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java7: 7(D2‘
-java.lang.String.substring(int)CALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java8 8('2£
-ncom.codecool.solarwatch.security.jwt.AuthTokenFilter.parseJwt(jakarta.servlet.http.HttpServletRequest)!requestCALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java5 5(#2≤
-}com.codecool.solarwatch.security.jwt.AuthTokenFilter.parseJwt(jakarta.servlet.http.HttpServletRequest)?headerAuth@53.15:53.25CALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java7  7(*2≤
-}com.codecool.solarwatch.security.jwt.AuthTokenFilter.parseJwt(jakarta.servlet.http.HttpServletRequest)?headerAuth@53.15:53.25CALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java7/ 7(92≤
-}com.codecool.solarwatch.security.jwt.AuthTokenFilter.parseJwt(jakarta.servlet.http.HttpServletRequest)?headerAuth@53.15:53.25CALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java8 8(2®
-ncom.codecool.solarwatch.security.jwt.AuthTokenFilter.parseJwt(jakarta.servlet.http.HttpServletRequest)!request	PARAMETER™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java4/ 4(62π
-}com.codecool.solarwatch.security.jwt.AuthTokenFilter.parseJwt(jakarta.servlet.http.HttpServletRequest)?headerAuth@53.15:53.25DECLARATION™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java5 5(2Ã
-java.lang.StringRETURN_TYPE™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java4 4(‡
-}com.codecool.solarwatch.security.jwt.AuthTokenFilter.parseJwt(jakarta.servlet.http.HttpServletRequest)?headerAuth@53.15:53.25VARIABLE™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java5 5("
-typeString"
-isFinalfalse"ã
-declarationStringv<mark class="modifier"> </mark>String <mark class="class-field">headerAuth</mark> = request.getHeader("Authorization")*
-headerAuth2≈
-java.lang.StringTYPE™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java5 5(2£
-ncom.codecool.solarwatch.security.jwt.AuthTokenFilter.parseJwt(jakarta.servlet.http.HttpServletRequest)!requestCALL™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java5 5(#Ô
-ncom.codecool.solarwatch.security.jwt.AuthTokenFilter.parseJwt(jakarta.servlet.http.HttpServletRequest)!request	PARAMETER™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java4/ 4(6"
-typeHttpServletRequest"
-isFinalfalse"/
-declarationStringHttpServletRequest request*request2‹
-'jakarta.servlet.http.HttpServletRequestTYPE™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java4 4(.˚
-Gcom.codecool.solarwatch.security.jwt.AuthTokenFilter?logger@20.32:20.38VALUE™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java  (&"
-isFinaltrue"
-typeLogger"Â
-declarationStringœ<mark class="modifier">private </mark><mark class="modifier">static </mark><mark class="modifier">final </mark>Logger <mark class="class-field">logger</mark> = LoggerFactory.getLogger(AuthTokenFilter.class);"
-isStatictrue"
-accessprivate*logger2≈
-org.slf4j.LoggerTYPE™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java (À
-Icom.codecool.solarwatch.security.jwt.AuthTokenFilter?jwtUtils@22.27:22.35VALUE™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java (#"
-isFinaltrue"
-typeJwtUtils"ë
-declarationString|<mark class="modifier">private </mark><mark class="modifier">final </mark>JwtUtils <mark class="class-field">jwtUtils</mark>"
-isStaticfalse"
-accessprivate*jwtUtils2‚
--com.codecool.solarwatch.security.jwt.JwtUtilsTYPE™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java (ë
-Scom.codecool.solarwatch.security.jwt.AuthTokenFilter?userDetailsService@24.37:24.55VALUE™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java% (7"
-isFinaltrue"
-typeUserDetailsService"¶
-declarationStringê<mark class="modifier">private </mark><mark class="modifier">final </mark>UserDetailsService <mark class="class-field">userDetailsService</mark>"
-isStaticfalse"
-accessprivate*userDetailsService2ı
-@org.springframework.security.core.userdetails.UserDetailsServiceTYPE™
-üC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthTokenFilter.java ($

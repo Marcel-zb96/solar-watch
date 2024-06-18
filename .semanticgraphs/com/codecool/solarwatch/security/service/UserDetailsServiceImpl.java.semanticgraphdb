@@ -1,137 +1,0 @@
-
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java´
-?com.codecool.solarwatch.security.service.UserDetailsServiceImplCLASSµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java (#"3
-package(com.codecool.solarwatch.security.service"
-isFinalfalse"
-inner classfalse"
-
-isAbstractfalse"·
-declarationStringÀ<mark class="annotation">@Service</mark> <br><mark class="modifier">public </mark><mark class="modifier">class </mark>UserDetailsServiceImpl<mark class="modifier"><br>implements </mark>UserDetailsService"
-accesspublic*UserDetailsServiceImpl2—
-âcom.codecool.solarwatch.security.service.UserDetailsServiceImpl.UserDetailsServiceImpl(com.codecool.solarwatch.repository.UserRepository)DECLARATIONµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java (!2´
-dcom.codecool.solarwatch.security.service.UserDetailsServiceImpl.loadUserByUsername(java.lang.String)DECLARATIONµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java ()2°
-Zcom.codecool.solarwatch.security.service.UserDetailsServiceImpl?userRepository@18.33:18.47DECLARATIONµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java! (/2Ç
-@org.springframework.security.core.userdetails.UserDetailsServiceEXTENDµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java/ (A⁄
-âcom.codecool.solarwatch.security.service.UserDetailsServiceImpl.UserDetailsServiceImpl(com.codecool.solarwatch.repository.UserRepository)CONSTRUCTORµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java (!"ã
-declarationStringv<mark class="modifier">public </mark><mark class="method">UserDetailsServiceImpl</mark>(UserRepository userRepository)*UserDetailsServiceImpl2Ÿ
-òcom.codecool.solarwatch.security.service.UserDetailsServiceImpl.UserDetailsServiceImpl(com.codecool.solarwatch.repository.UserRepository)!userRepositoryCALLµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java (,2ö
-Zcom.codecool.solarwatch.security.service.UserDetailsServiceImpl?userRepository@18.33:18.47CALLµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java (2ﬁ
-òcom.codecool.solarwatch.security.service.UserDetailsServiceImpl.UserDetailsServiceImpl(com.codecool.solarwatch.repository.UserRepository)!userRepository	PARAMETERµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java1 (?2Ü
-?com.codecool.solarwatch.security.service.UserDetailsServiceImplRETURN_TYPEµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java (!¿
-òcom.codecool.solarwatch.security.service.UserDetailsServiceImpl.UserDetailsServiceImpl(com.codecool.solarwatch.repository.UserRepository)!userRepository	PARAMETERµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java1 (?"
-typeUserRepository"
-isFinalfalse"2
-declarationStringUserRepository userRepository*userRepository2Ò
-1com.codecool.solarwatch.repository.UserRepositoryTYPEµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java" (0«0
-dcom.codecool.solarwatch.security.service.UserDetailsServiceImpl.loadUserByUsername(java.lang.String)METHODµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java ()"
-isFinalfalse"ë
-declarationString˚<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark>UserDetails <mark class="method">loadUserByUsername</mark>(String username)<mark class="modifier"> <mark class="modifier">throws</mark> </mark>UsernameNotFoundException"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typeUserDetails*loadUserByUsername2à
-Hjava.util.Optional.orElseThrow(java.util.function.Supplier<? extends X>)CALLµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java ( 2õ
-[com.codecool.solarwatch.repository.UserRepository.getUserEntityByUsername(java.lang.String)CALLµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java3 (J2’
-java.util.List.add(E)CALLµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java (2’
-java.lang.Enum.name()CALLµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java: (>2ﬂ
-java.util.ArrayList.ArrayList()CALLµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java5 (@2ö
-Zcom.codecool.solarwatch.security.service.UserDetailsServiceImpl?userRepository@18.33:18.47CALLµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java$ (22≠
-mcom.codecool.solarwatch.security.service.UserDetailsServiceImpl.loadUserByUsername(java.lang.String)!usernameCALLµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.javaK (S2≠
-mcom.codecool.solarwatch.security.service.UserDetailsServiceImpl.loadUserByUsername(java.lang.String)!usernameCALLµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.javaE (M2ª
-{com.codecool.solarwatch.security.service.UserDetailsServiceImpl.loadUserByUsername(java.lang.String)?userEntity@26.23:26.33CALLµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java ('2∂
-vcom.codecool.solarwatch.security.service.UserDetailsServiceImpl.loadUserByUsername(java.lang.String)?roles@29.41:29.46CALLµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java (2µ
-ucom.codecool.solarwatch.security.service.UserDetailsServiceImpl.loadUserByUsername(java.lang.String)?role@30.22:30.26CALLµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java5 (92ª
-{com.codecool.solarwatch.security.service.UserDetailsServiceImpl.loadUserByUsername(java.lang.String)?userEntity@26.23:26.33CALLµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java" "(&2ª
-{com.codecool.solarwatch.security.service.UserDetailsServiceImpl.loadUserByUsername(java.lang.String)?userEntity@26.23:26.33CALLµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java"6 "(@2∂
-vcom.codecool.solarwatch.security.service.UserDetailsServiceImpl.loadUserByUsername(java.lang.String)?roles@29.41:29.46CALLµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java"P "(U2≤
-mcom.codecool.solarwatch.security.service.UserDetailsServiceImpl.loadUserByUsername(java.lang.String)!username	PARAMETERµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java1 (92¬
-{com.codecool.solarwatch.security.service.UserDetailsServiceImpl.loadUserByUsername(java.lang.String)?userEntity@26.23:26.33DECLARATIONµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java (!2Ω
-vcom.codecool.solarwatch.security.service.UserDetailsServiceImpl.loadUserByUsername(java.lang.String)?roles@29.41:29.46DECLARATIONµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java) (.2º
-ucom.codecool.solarwatch.security.service.UserDetailsServiceImpl.loadUserByUsername(java.lang.String)?role@30.22:30.26DECLARATIONµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java (2Ä
-9org.springframework.security.core.userdetails.UserDetailsRETURN_TYPEµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java (Â
-{com.codecool.solarwatch.security.service.UserDetailsServiceImpl.loadUserByUsername(java.lang.String)?userEntity@26.23:26.33VARIABLEµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java (!"
-type
-UserEntity"
-isFinalfalse"Ÿ
-declarationString√<mark class="modifier"> </mark>UserEntity <mark class="class-field">userEntity</mark> = userRepository.getUserEntityByUsername(username).orElseThrow(() -> new UsernameNotFoundException(username))*
-userEntity2Ô
-/com.codecool.solarwatch.model.entity.UserEntityTYPEµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java (2à
-Hjava.util.Optional.orElseThrow(java.util.function.Supplier<? extends X>)CALLµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java ( 2õ
-[com.codecool.solarwatch.repository.UserRepository.getUserEntityByUsername(java.lang.String)CALLµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java3 (J2ö
-Zcom.codecool.solarwatch.security.service.UserDetailsServiceImpl?userRepository@18.33:18.47CALLµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java$ (22≠
-mcom.codecool.solarwatch.security.service.UserDetailsServiceImpl.loadUserByUsername(java.lang.String)!usernameCALLµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.javaK (S2≠
-mcom.codecool.solarwatch.security.service.UserDetailsServiceImpl.loadUserByUsername(java.lang.String)!usernameCALLµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.javaE (M»	
-vcom.codecool.solarwatch.security.service.UserDetailsServiceImpl.loadUserByUsername(java.lang.String)?roles@29.41:29.46VARIABLEµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java) (."$
-typeList<SimpleGrantedAuthority>"
-isFinalfalse"ã
-declarationStringv<mark class="modifier"> </mark>List<SimpleGrantedAuthority> <mark class="class-field">roles</mark> = new ArrayList<>()*roles2Œ
-java.util.ListTYPEµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java (2ã
-Borg.springframework.security.core.authority.SimpleGrantedAuthorityTYPE_ARGUMENTµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java ('2ﬂ
-java.util.ArrayList.ArrayList()CALLµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java5 (@´
-ucom.codecool.solarwatch.security.service.UserDetailsServiceImpl.loadUserByUsername(java.lang.String)?role@30.22:30.26VARIABLEµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java ("
-typeRole"
-isFinalfalse"^
-declarationStringI<mark class="modifier"> </mark>Role <mark class="class-field">role</mark>*role2È
-)com.codecool.solarwatch.model.entity.RoleTYPEµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java (◊
-mcom.codecool.solarwatch.security.service.UserDetailsServiceImpl.loadUserByUsername(java.lang.String)!username	PARAMETERµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java1 (9"
-typeString"
-isFinalfalse"$
-declarationStringString username*username2–
-java.lang.StringTYPEµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java* (0è
-Zcom.codecool.solarwatch.security.service.UserDetailsServiceImpl?userRepository@18.33:18.47VALUEµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java! (/"
-isFinaltrue"
-typeUserRepository"û
-declarationStringà<mark class="modifier">private </mark><mark class="modifier">final </mark>UserRepository <mark class="class-field">userRepository</mark>"
-isStaticfalse"
-accessprivate*userRepository2Ò
-1com.codecool.solarwatch.repository.UserRepositoryTYPEµ
-™C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\service\UserDetailsServiceImpl.java ( 

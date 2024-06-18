@@ -1,284 +1,0 @@
-
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.javaÇ
-,com.codecool.solarwatch.service.SolarServiceCLASS¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java ("*
-packagecom.codecool.solarwatch.service"
-isFinalfalse"
-inner classfalse"
-
-isAbstractfalse"ò
-declarationStringÇ<mark class="annotation">@Service</mark> <br><mark class="modifier">public </mark><mark class="modifier">class </mark>SolarService"
-accesspublic*SolarService2ﬁ
-©com.codecool.solarwatch.service.SolarService.SolarService(org.springframework.web.reactive.function.client.WebClient, com.codecool.solarwatch.repository.SolarRepository)DECLARATION¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java (2π
-Ñcom.codecool.solarwatch.service.SolarService.getSolarDetail(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)DECLARATION¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java (+2∞
-|com.codecool.solarwatch.service.SolarService.getUrl(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)DECLARATION¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java$ $( 2π
-Ñcom.codecool.solarwatch.service.SolarService.fetchSolarData(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)DECLARATION¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java( ((,2ˆ
-Bcom.codecool.solarwatch.service.SolarService?webClient@18.28:18.37DECLARATION¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java (%2¸
-Hcom.codecool.solarwatch.service.SolarService?solarRepository@19.34:19.49DECLARATION¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java" (1∑
-©com.codecool.solarwatch.service.SolarService.SolarService(org.springframework.web.reactive.function.client.WebClient, com.codecool.solarwatch.repository.SolarRepository)CONSTRUCTOR¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java ("’
-declarationStringø<mark class="modifier">public </mark><mark class="method">SolarService</mark>(WebClient webClient<mark class="modifier"><mark class="modifier">,</mark></mark> SolarRepository solarRepository)*SolarService2·
-≥com.codecool.solarwatch.service.SolarService.SolarService(org.springframework.web.reactive.function.client.WebClient, com.codecool.solarwatch.repository.SolarRepository)!webClientCALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java ("2Á
-πcom.codecool.solarwatch.service.SolarService.SolarService(org.springframework.web.reactive.function.client.WebClient, com.codecool.solarwatch.repository.SolarRepository)!solarRepositoryCALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java (.2Ô
-Bcom.codecool.solarwatch.service.SolarService?webClient@18.28:18.37CALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java (2ı
-Hcom.codecool.solarwatch.service.SolarService?solarRepository@19.34:19.49CALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java (2Ê
-≥com.codecool.solarwatch.service.SolarService.SolarService(org.springframework.web.reactive.function.client.WebClient, com.codecool.solarwatch.repository.SolarRepository)!webClient	PARAMETER¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java" (+2Ï
-πcom.codecool.solarwatch.service.SolarService.SolarService(org.springframework.web.reactive.function.client.WebClient, com.codecool.solarwatch.repository.SolarRepository)!solarRepository	PARAMETER¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java= (L2‡
-,com.codecool.solarwatch.service.SolarServiceRETURN_TYPE¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java (™
-≥com.codecool.solarwatch.service.SolarService.SolarService(org.springframework.web.reactive.function.client.WebClient, com.codecool.solarwatch.repository.SolarRepository)!webClient	PARAMETER¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java" (+"
-type	WebClient"
-isFinalfalse"(
-declarationStringWebClient webClient*	webClient2Á
-:org.springframework.web.reactive.function.client.WebClientTYPE¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java (!¿
-πcom.codecool.solarwatch.service.SolarService.SolarService(org.springframework.web.reactive.function.client.WebClient, com.codecool.solarwatch.repository.SolarRepository)!solarRepository	PARAMETER¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java= (L"
-typeSolarRepository"
-isFinalfalse"4
-declarationStringSolarRepository solarRepository*solarRepository2ﬂ
-2com.codecool.solarwatch.repository.SolarRepositoryTYPE¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java- (<⁄#
-Ñcom.codecool.solarwatch.service.SolarService.getSolarDetail(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)METHOD¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java (+"
-isFinalfalse"Œ
-declarationString∏<mark class="modifier">public </mark>SunriseSunsetInfo <mark class="method">getSolarDetail</mark>(City city<mark class="modifier"><mark class="modifier">,</mark></mark> LocalDate date)"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typeSunriseSunsetInfo*getSolarDetail2∫
-åcom.codecool.solarwatch.repository.SolarRepository.getByCityAndDate(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)CALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.javaD (T2Û
-Fjava.util.Optional.orElseGet(java.util.function.Supplier<? extends T>)CALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java (&2≤
-Ñcom.codecool.solarwatch.service.SolarService.fetchSolarData(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)CALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java- (;2ı
-Hcom.codecool.solarwatch.service.SolarService?solarRepository@19.34:19.49CALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java4 (C2∑
-âcom.codecool.solarwatch.service.SolarService.getSolarDetail(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)!cityCALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.javaU (Y2∑
-âcom.codecool.solarwatch.service.SolarService.getSolarDetail(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)!dateCALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java[ (_2Ã
-ûcom.codecool.solarwatch.service.SolarService.getSolarDetail(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)?sunriseSunset@29.36:29.49CALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java (2∑
-âcom.codecool.solarwatch.service.SolarService.getSolarDetail(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)!cityCALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java< (@2∑
-âcom.codecool.solarwatch.service.SolarService.getSolarDetail(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)!dateCALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.javaB (F2º
-âcom.codecool.solarwatch.service.SolarService.getSolarDetail(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)!city	PARAMETER¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java1 (52º
-âcom.codecool.solarwatch.service.SolarService.getSolarDetail(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)!date	PARAMETER¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.javaA (E2”
-ûcom.codecool.solarwatch.service.SolarService.getSolarDetail(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)?sunriseSunset@29.36:29.49DECLARATION¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java$ (12
-<com.codecool.solarwatch.model.solar_detail.SunriseSunsetInfoRETURN_TYPE¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java (ß
-ûcom.codecool.solarwatch.service.SolarService.getSolarDetail(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)?sunriseSunset@29.36:29.49VARIABLE¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java$ (1"#
-typeOptional<SunriseSunsetInfo>"
-isFinalfalse"Æ
-declarationStringò<mark class="modifier"> </mark>Optional<SunriseSunsetInfo> <mark class="class-field">sunriseSunset</mark> = solarRepository.getByCityAndDate(city, date)*sunriseSunset2ø
-java.util.OptionalTYPE¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java (2Ú
-<com.codecool.solarwatch.model.solar_detail.SunriseSunsetInfoTYPE_ARGUMENT¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java ("2∫
-åcom.codecool.solarwatch.repository.SolarRepository.getByCityAndDate(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)CALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.javaD (T2ı
-Hcom.codecool.solarwatch.service.SolarService?solarRepository@19.34:19.49CALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java4 (C2∑
-âcom.codecool.solarwatch.service.SolarService.getSolarDetail(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)!cityCALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.javaU (Y2∑
-âcom.codecool.solarwatch.service.SolarService.getSolarDetail(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)!dateCALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java[ (_‰
-âcom.codecool.solarwatch.service.SolarService.getSolarDetail(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)!city	PARAMETER¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java1 (5"
-typeCity"
-isFinalfalse"
-declarationString	City city*city2ﬂ
-2com.codecool.solarwatch.model.location_detail.CityTYPE¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java, (0œ
-âcom.codecool.solarwatch.service.SolarService.getSolarDetail(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)!date	PARAMETER¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.javaA (E"
-type	LocalDate"
-isFinalfalse"#
-declarationStringLocalDate date*date2¿
-java.time.LocalDateTYPE¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java7 (@‡
-|com.codecool.solarwatch.service.SolarService.getUrl(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)METHOD¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java$ $( "
-isFinalfalse"·
-declarationStringÀ<mark class="modifier">private </mark><mark class="modifier">static </mark>String <mark class="method">getUrl</mark>(City city<mark class="modifier"><mark class="modifier">,</mark></mark> LocalDate date)"
-isStatictrue"
-accessprivate"
-
-isAbstractfalse"
-typeString*getUrl2Î
->java.lang.String.format(java.lang.String, java.lang.Object...)CALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java% %(2Ì
-@com.codecool.solarwatch.model.location_detail.City.getLatitude()CALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java%k %(v2Ô
-Acom.codecool.solarwatch.model.location_detail.City.getLongitude()CALL£
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java% %(ã2Õ
-java.time.LocalDate.toString()CALL§
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java%î %(ú2Ø
-Åcom.codecool.solarwatch.service.SolarService.getUrl(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)!cityCALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java%f %(j2Ø
-Åcom.codecool.solarwatch.service.SolarService.getUrl(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)!cityCALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java%z %(~2±
-Åcom.codecool.solarwatch.service.SolarService.getUrl(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)!dateCALL§
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java%è %(ì2¥
-Åcom.codecool.solarwatch.service.SolarService.getUrl(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)!city	PARAMETER¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java$& $(*2¥
-Åcom.codecool.solarwatch.service.SolarService.getUrl(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)!date	PARAMETER¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java$6 $(:2ƒ
-java.lang.StringRETURN_TYPE¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java$ $(‹
-Åcom.codecool.solarwatch.service.SolarService.getUrl(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)!city	PARAMETER¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java$& $(*"
-typeCity"
-isFinalfalse"
-declarationString	City city*city2ﬂ
-2com.codecool.solarwatch.model.location_detail.CityTYPE¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java$! $(%«
-Åcom.codecool.solarwatch.service.SolarService.getUrl(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)!date	PARAMETER¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java$6 $(:"
-type	LocalDate"
-isFinalfalse"#
-declarationStringLocalDate date*date2¿
-java.time.LocalDateTYPE¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java$, $(5 5
-Ñcom.codecool.solarwatch.service.SolarService.fetchSolarData(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)METHOD¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java( ((,"
-isFinalfalse"œ
-declarationStringπ<mark class="modifier">private </mark>SunriseSunsetInfo <mark class="method">fetchSolarData</mark>(City city<mark class="modifier"><mark class="modifier">,</mark></mark> LocalDate date)"
-isStaticfalse"
-accessprivate"
-
-isAbstractfalse"
-typeSunriseSunsetInfo*fetchSolarData2©
-|com.codecool.solarwatch.service.SolarService.getUrl(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)CALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java) )(2ö
-mcom.codecool.solarwatch.exception.solar.InvalidCoordinatesOrDateException.InvalidCoordinatesOrDateException()CALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java> >(72∑
-âcom.codecool.solarwatch.service.SolarService.fetchSolarData(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)!cityCALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java) )( 2∑
-âcom.codecool.solarwatch.service.SolarService.fetchSolarData(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)!dateCALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java)" )(&2Ô
-Bcom.codecool.solarwatch.service.SolarService?webClient@18.28:18.37CALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java* *((2¬
-îcom.codecool.solarwatch.service.SolarService.fetchSolarData(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)?url@41.15:41.18CALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java, ,(2«
-ôcom.codecool.solarwatch.service.SolarService.fetchSolarData(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)?response@42.20:42.28CALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java1 1(2∑
-âcom.codecool.solarwatch.service.SolarService.fetchSolarData(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)!dateCALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java4 4(2«
-ôcom.codecool.solarwatch.service.SolarService.fetchSolarData(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)?response@42.20:42.28CALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java5 5(2«
-ôcom.codecool.solarwatch.service.SolarService.fetchSolarData(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)?response@42.20:42.28CALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java6 6(2∑
-âcom.codecool.solarwatch.service.SolarService.fetchSolarData(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)!cityCALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java7 7(2ı
-Hcom.codecool.solarwatch.service.SolarService?solarRepository@19.34:19.49CALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java: :(2–
-¢com.codecool.solarwatch.service.SolarService.fetchSolarData(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)?sunriseSunsetInfo@51.30:51.47CALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java:! :(22–
-¢com.codecool.solarwatch.service.SolarService.fetchSolarData(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)?sunriseSunsetInfo@51.30:51.47CALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java; ;($2º
-âcom.codecool.solarwatch.service.SolarService.fetchSolarData(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)!city	PARAMETER¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java(2 ((62º
-âcom.codecool.solarwatch.service.SolarService.fetchSolarData(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)!date	PARAMETER¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java(B ((F2…
-îcom.codecool.solarwatch.service.SolarService.fetchSolarData(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)?url@41.15:41.18DECLARATION¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java) )(2Œ
-ôcom.codecool.solarwatch.service.SolarService.fetchSolarData(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)?response@42.20:42.28DECLARATION¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java* *(2◊
-¢com.codecool.solarwatch.service.SolarService.fetchSolarData(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)?sunriseSunsetInfo@51.30:51.47DECLARATION¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java3 3(/2
-<com.codecool.solarwatch.model.solar_detail.SunriseSunsetInfoRETURN_TYPE¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java( ((√
-îcom.codecool.solarwatch.service.SolarService.fetchSolarData(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)?url@41.15:41.18VARIABLE¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java) )("
-typeString"
-isFinalfalse"t
-declarationString_<mark class="modifier"> </mark>String <mark class="class-field">url</mark> = getUrl(city, date)*url2Ω
-java.lang.StringTYPE¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java) )(2©
-|com.codecool.solarwatch.service.SolarService.getUrl(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)CALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java) )(2∑
-âcom.codecool.solarwatch.service.SolarService.fetchSolarData(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)!cityCALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java) )( 2∑
-âcom.codecool.solarwatch.service.SolarService.fetchSolarData(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)!dateCALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java)" )(&ß
-
-ôcom.codecool.solarwatch.service.SolarService.fetchSolarData(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)?response@42.20:42.28VARIABLE¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java* *("
-typeSolarDetail"
-isFinalfalse"∂
-declarationString†<mark class="modifier"> </mark>SolarDetail <mark class="class-field">response</mark> = webClient.get().uri(url).retrieve().bodyToMono(SolarDetail.class).block()*response2∏
-SolarDetailTYPE¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java* *(2Ô
-Bcom.codecool.solarwatch.service.SolarService?webClient@18.28:18.37CALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java* *((2¬
-îcom.codecool.solarwatch.service.SolarService.fetchSolarData(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)?url@41.15:41.18CALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java, ,(ª
-¢com.codecool.solarwatch.service.SolarService.fetchSolarData(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)?sunriseSunsetInfo@51.30:51.47VARIABLE¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java3 3(/"
-typeSunriseSunsetInfo"
-isFinalfalse"∞
-declarationStringö<mark class="modifier"> </mark>SunriseSunsetInfo <mark class="class-field">sunriseSunsetInfo</mark> = new SunriseSunsetInfo(date, response.results().sunrise().toLocalTime()<mark class="modifier">,</mark> response.results().sunset().toLocalTime()<mark class="modifier">,</mark> city)*sunriseSunsetInfo2È
-<com.codecool.solarwatch.model.solar_detail.SunriseSunsetInfoTYPE¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java3 3(2∑
-âcom.codecool.solarwatch.service.SolarService.fetchSolarData(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)!dateCALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java4 4(2«
-ôcom.codecool.solarwatch.service.SolarService.fetchSolarData(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)?response@42.20:42.28CALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java5 5(2«
-ôcom.codecool.solarwatch.service.SolarService.fetchSolarData(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)?response@42.20:42.28CALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java6 6(2∑
-âcom.codecool.solarwatch.service.SolarService.fetchSolarData(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)!cityCALL¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java7 7(‰
-âcom.codecool.solarwatch.service.SolarService.fetchSolarData(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)!city	PARAMETER¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java(2 ((6"
-typeCity"
-isFinalfalse"
-declarationString	City city*city2ﬂ
-2com.codecool.solarwatch.model.location_detail.CityTYPE¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java(- ((1œ
-âcom.codecool.solarwatch.service.SolarService.fetchSolarData(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)!date	PARAMETER¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java(B ((F"
-type	LocalDate"
-isFinalfalse"#
-declarationStringLocalDate date*date2¿
-java.time.LocalDateTYPE¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java(8 ((A≈
-Bcom.codecool.solarwatch.service.SolarService?webClient@18.28:18.37VALUE¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java (%"
-isFinaltrue"
-type	WebClient"ì
-declarationString~<mark class="modifier">private </mark><mark class="modifier">final </mark>WebClient <mark class="class-field">webClient</mark>"
-isStaticfalse"
-accessprivate*	webClient2Á
-:org.springframework.web.reactive.function.client.WebClientTYPE¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java (‹
-Hcom.codecool.solarwatch.service.SolarService?solarRepository@19.34:19.49VALUE¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java" (1"
-isFinaltrue"
-typeSolarRepository"†
-declarationStringä<mark class="modifier">private </mark><mark class="modifier">final </mark>SolarRepository <mark class="class-field">solarRepository</mark>"
-isStaticfalse"
-accessprivate*solarRepository2ﬂ
-2com.codecool.solarwatch.repository.SolarRepositoryTYPE¢
-óC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\service\SolarService.java (!

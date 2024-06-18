@@ -1,37 +1,0 @@
-
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\exception\geo\GeoCodingServiceAdvice.javaù
-<com.codecool.solarwatch.exception.geo.GeoCodingServiceAdviceCLASS≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\exception\geo\GeoCodingServiceAdvice.java	 	(#"0
-package%com.codecool.solarwatch.exception.geo"
-isFinalfalse"
-inner classfalse"
-
-isAbstractfalse"´
-declarationStringï<mark class="annotation">@ControllerAdvice</mark> <br><mark class="modifier">public </mark><mark class="modifier">class </mark>GeoCodingServiceAdvice"
-accesspublic*GeoCodingServiceAdvice2Ÿ
-îcom.codecool.solarwatch.exception.geo.GeoCodingServiceAdvice.invalidDateExceptionHandler(com.codecool.solarwatch.exception.geo.InvalidCityException)DECLARATION≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\exception\geo\GeoCodingServiceAdvice.java (-ü
-îcom.codecool.solarwatch.exception.geo.GeoCodingServiceAdvice.invalidDateExceptionHandler(com.codecool.solarwatch.exception.geo.InvalidCityException)METHOD≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\exception\geo\GeoCodingServiceAdvice.java (-"
-isFinalfalse"„
-declarationStringÕ <br><mark class="annotation">@ResponseStatus(HttpStatus.BAD_REQUEST)</mark> <br><mark class="modifier">public </mark>String <mark class="method">invalidDateExceptionHandler</mark>(InvalidCityException ex)"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typeString*invalidDateExceptionHandler2›
- java.lang.Throwable.getMessage()CALL≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\exception\geo\GeoCodingServiceAdvice.javaR (\2’
-ócom.codecool.solarwatch.exception.geo.GeoCodingServiceAdvice.invalidDateExceptionHandler(com.codecool.solarwatch.exception.geo.InvalidCityException)!exCALL≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\exception\geo\GeoCodingServiceAdvice.javaO (Q2⁄
-ócom.codecool.solarwatch.exception.geo.GeoCodingServiceAdvice.invalidDateExceptionHandler(com.codecool.solarwatch.exception.geo.InvalidCityException)!ex	PARAMETER≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\exception\geo\GeoCodingServiceAdvice.javaC (E2‘
-java.lang.StringRETURN_TYPE≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\exception\geo\GeoCodingServiceAdvice.java (∂
-ócom.codecool.solarwatch.exception.geo.GeoCodingServiceAdvice.invalidDateExceptionHandler(com.codecool.solarwatch.exception.geo.InvalidCityException)!ex	PARAMETER≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\exception\geo\GeoCodingServiceAdvice.javaC (E"
-typeInvalidCityException"
-isFinalfalse",
-declarationStringInvalidCityException ex*ex2˜
-:com.codecool.solarwatch.exception.geo.InvalidCityExceptionTYPE≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\exception\geo\GeoCodingServiceAdvice.java. (B

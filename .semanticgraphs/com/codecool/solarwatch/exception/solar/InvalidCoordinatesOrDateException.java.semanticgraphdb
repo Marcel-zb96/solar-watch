@@ -1,22 +1,0 @@
-
-´C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\exception\solar\InvalidCoordinatesOrDateException.javaž	
-Icom.codecool.solarwatch.exception.solar.InvalidCoordinatesOrDateExceptionCLASS¿
-´C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\exception\solar\InvalidCoordinatesOrDateException.java (."2
-package'com.codecool.solarwatch.exception.solar"
-isFinalfalse"
-inner classfalse"
-
-isAbstractfalse"·
-declarationString¡<mark class="modifier">public </mark><mark class="modifier">class </mark>InvalidCoordinatesOrDateException<mark class="modifier"> extends </mark>RuntimeException"
-accesspublic*!InvalidCoordinatesOrDateException2¾
-mcom.codecool.solarwatch.exception.solar.InvalidCoordinatesOrDateException.InvalidCoordinatesOrDateException()DECLARATION¿
-´C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\exception\solar\InvalidCoordinatesOrDateException.java (,2æ
-java.lang.RuntimeExceptionEXTEND¿
-´C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\exception\solar\InvalidCoordinatesOrDateException.java7 (Gƒ
-mcom.codecool.solarwatch.exception.solar.InvalidCoordinatesOrDateException.InvalidCoordinatesOrDateException()CONSTRUCTOR¿
-´C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\exception\solar\InvalidCoordinatesOrDateException.java (,"y
-declarationStringd<mark class="modifier">public </mark><mark class="method">InvalidCoordinatesOrDateException</mark>()*!InvalidCoordinatesOrDateException2‡
-=java.lang.RuntimeException.RuntimeException(java.lang.String)CALL¿
-´C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\exception\solar\InvalidCoordinatesOrDateException.java0 (52š
-Icom.codecool.solarwatch.exception.solar.InvalidCoordinatesOrDateExceptionRETURN_TYPE¿
-´C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\exception\solar\InvalidCoordinatesOrDateException.java (,

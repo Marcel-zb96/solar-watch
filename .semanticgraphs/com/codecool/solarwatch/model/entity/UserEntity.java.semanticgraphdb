@@ -1,156 +1,0 @@
-
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java…
-/com.codecool.solarwatch.model.entity.UserEntityCLASS•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java ("/
-package$com.codecool.solarwatch.model.entity"
-isFinalfalse"
-inner classfalse"
-
-isAbstractfalse"¯
-declarationString‚<mark class="annotation">@NoArgsConstructor</mark> <br><mark class="annotation">@Getter</mark> <br><mark class="annotation">@Entity</mark> <br><mark class="modifier">public </mark><mark class="modifier">class </mark>UserEntity"
-accesspublic*
-UserEntity2‰
-¨com.codecool.solarwatch.model.entity.UserEntity.UserEntity(jakarta.persistence.String, jakarta.persistence.String, java.util.Set<com.codecool.solarwatch.model.entity.Role>)DECLARATION•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java (2Ò
-:com.codecool.solarwatch.model.entity.UserEntity.toString()DECLARATION•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java$ $(2ï
-^com.codecool.solarwatch.model.entity.UserEntity.add(com.codecool.solarwatch.model.entity.Role)DECLARATION•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java- -(2ı
->com.codecool.solarwatch.model.entity.UserEntity?id@16.20:16.22DECLARATION•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java (2˚
-Dcom.codecool.solarwatch.model.entity.UserEntity?username@20.19:20.27DECLARATION•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java (2˚
-Dcom.codecool.solarwatch.model.entity.UserEntity?password@23.19:23.27DECLARATION•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java (2¯
-Acom.codecool.solarwatch.model.entity.UserEntity?roles@27.22:27.27DECLARATION•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java (Ã
-¨com.codecool.solarwatch.model.entity.UserEntity.UserEntity(jakarta.persistence.String, jakarta.persistence.String, java.util.Set<com.codecool.solarwatch.model.entity.Role>)CONSTRUCTOR•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java ("ë
-declarationString˚<mark class="modifier">public </mark><mark class="method">UserEntity</mark>(String username<mark class="modifier"><mark class="modifier">,</mark></mark> String password<mark class="modifier"><mark class="modifier">,</mark></mark> Set&lt;Role&gt; role)*
-UserEntity2Ê
-µcom.codecool.solarwatch.model.entity.UserEntity.UserEntity(jakarta.persistence.String, jakarta.persistence.String, java.util.Set<com.codecool.solarwatch.model.entity.Role>)!usernameCALL•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java ( 2Ê
-µcom.codecool.solarwatch.model.entity.UserEntity.UserEntity(jakarta.persistence.String, jakarta.persistence.String, java.util.Set<com.codecool.solarwatch.model.entity.Role>)!passwordCALL•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java ( 2‚
-±com.codecool.solarwatch.model.entity.UserEntity.UserEntity(jakarta.persistence.String, jakarta.persistence.String, java.util.Set<com.codecool.solarwatch.model.entity.Role>)!roleCALL•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java   (2Ù
-Dcom.codecool.solarwatch.model.entity.UserEntity?username@20.19:20.27CALL•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java (2Ù
-Dcom.codecool.solarwatch.model.entity.UserEntity?password@23.19:23.27CALL•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java (2Ò
-Acom.codecool.solarwatch.model.entity.UserEntity?roles@27.22:27.27CALL•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java   (2Î
-µcom.codecool.solarwatch.model.entity.UserEntity.UserEntity(jakarta.persistence.String, jakarta.persistence.String, java.util.Set<com.codecool.solarwatch.model.entity.Role>)!username	PARAMETER•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java (%2Î
-µcom.codecool.solarwatch.model.entity.UserEntity.UserEntity(jakarta.persistence.String, jakarta.persistence.String, java.util.Set<com.codecool.solarwatch.model.entity.Role>)!password	PARAMETER•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java. (62Á
-±com.codecool.solarwatch.model.entity.UserEntity.UserEntity(jakarta.persistence.String, jakarta.persistence.String, java.util.Set<com.codecool.solarwatch.model.entity.Role>)!role	PARAMETER•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.javaB (F2Ê
-/com.codecool.solarwatch.model.entity.UserEntityRETURN_TYPE•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java (ä
-µcom.codecool.solarwatch.model.entity.UserEntity.UserEntity(jakarta.persistence.String, jakarta.persistence.String, java.util.Set<com.codecool.solarwatch.model.entity.Role>)!username	PARAMETER•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java (%"
-typeString"
-isFinalfalse"$
-declarationStringString username*username2 
-jakarta.persistence.StringTYPE•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java (ä
-µcom.codecool.solarwatch.model.entity.UserEntity.UserEntity(jakarta.persistence.String, jakarta.persistence.String, java.util.Set<com.codecool.solarwatch.model.entity.Role>)!password	PARAMETER•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java. (6"
-typeString"
-isFinalfalse"$
-declarationStringString password*password2 
-jakarta.persistence.StringTYPE•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java' (-‹
-±com.codecool.solarwatch.model.entity.UserEntity.UserEntity(jakarta.persistence.String, jakarta.persistence.String, java.util.Set<com.codecool.solarwatch.model.entity.Role>)!role	PARAMETER•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.javaB (F"
-type	Set<Role>"
-isFinalfalse"#
-declarationStringSet<Role> role*role2Ω
-java.util.SetTYPE•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java8 (;2‚
-)com.codecool.solarwatch.model.entity.RoleTYPE_ARGUMENT•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java< (@í
-:com.codecool.solarwatch.model.entity.UserEntity.toString()METHOD•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java$ $("
-isFinalfalse"ñ
-declarationStringÄ<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark>String <mark class="method">toString</mark>()"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typeString*toString2Ó
->com.codecool.solarwatch.model.entity.UserEntity?id@16.20:16.22CALL•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java& &(2Ù
-Dcom.codecool.solarwatch.model.entity.UserEntity?username@20.19:20.27CALL•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java'! '()2Ù
-Dcom.codecool.solarwatch.model.entity.UserEntity?password@23.19:23.27CALL•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java(! (()2Ò
-Acom.codecool.solarwatch.model.entity.UserEntity?roles@27.22:27.27CALL•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java) )("2—
-jakarta.persistence.StringRETURN_TYPE•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java$ $(Â
-^com.codecool.solarwatch.model.entity.UserEntity.add(com.codecool.solarwatch.model.entity.Role)METHOD•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java- -("
-isFinalfalse"ä
-declarationStringu<mark class="modifier">public </mark><mark class="modifier">boolean</mark> <mark class="method">add</mark>(Role role)"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typeboolean*add2Ò
-Acom.codecool.solarwatch.model.entity.UserEntity?roles@27.22:27.27CALL•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java. .(2ì
-ccom.codecool.solarwatch.model.entity.UserEntity.add(com.codecool.solarwatch.model.entity.Role)!roleCALL•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java. .(2ò
-ccom.codecool.solarwatch.model.entity.UserEntity.add(com.codecool.solarwatch.model.entity.Role)!role	PARAMETER•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java- -( 2æ
-booleanRETURN_TYPE•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java- -(∫
-ccom.codecool.solarwatch.model.entity.UserEntity.add(com.codecool.solarwatch.model.entity.Role)!role	PARAMETER•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java- -( "
-typeRole"
-isFinalfalse"
-declarationString	Role role*role2Ÿ
-)com.codecool.solarwatch.model.entity.RoleTYPE•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java- -(ß
->com.codecool.solarwatch.model.entity.UserEntity?id@16.20:16.22VARIABLE•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java ("
-isFinalfalse"
-typeInteger"ó
-declarationStringÅ<mark class="modifier">private </mark>Integer <mark class="class-field">id</mark> = GenerationType.SEQUENCE)
-private Integer id;"
-isStaticfalse"
-accessprivate*id2À
-jakarta.persistence.IntegerTYPE•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java (ß
-Dcom.codecool.solarwatch.model.entity.UserEntity?username@20.19:20.27VARIABLE•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java ("
-isFinalfalse"
-typeString"ç
-declarationStringx<mark class="modifier">private </mark>String <mark class="class-field">username</mark> = true)
-private String username;"
-isStaticfalse"
-accessprivate*username2 
-jakarta.persistence.StringTYPE•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java (Ñ
-Dcom.codecool.solarwatch.model.entity.UserEntity?password@23.19:23.27VARIABLE•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java ("
-isFinalfalse"
-typeString"k
-declarationStringV<mark class="modifier">private </mark>String <mark class="class-field">password</mark>"
-isStaticfalse"
-accessprivate*password2 
-jakarta.persistence.StringTYPE•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java (Ÿ
-Acom.codecool.solarwatch.model.entity.UserEntity?roles@27.22:27.27VARIABLE•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java ("
-isFinalfalse"
-type	Set<Role>"k
-declarationStringV<mark class="modifier">private </mark>Set<Role> <mark class="class-field">roles</mark>"
-isStaticfalse"
-accessprivate*roles2Ω
-java.util.SetTYPE•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java (2‚
-)com.codecool.solarwatch.model.entity.RoleTYPE_ARGUMENT•
-öC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\entity\UserEntity.java (

@@ -1,242 +1,0 @@
-
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.javaÌ
-2com.codecool.solarwatch.security.WebSecurityConfigCLASS®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java ("+
-package com.codecool.solarwatch.security"
-isFinalfalse"
-inner classfalse"
-
-isAbstractfalse"›
-declarationString«<mark class="annotation">@Configuration</mark> <br><mark class="annotation">@EnableMethodSecurity</mark> <br><mark class="modifier">public </mark><mark class="modifier">class </mark>WebSecurityConfig"
-accesspublic*WebSecurityConfig2®
-Ìcom.codecool.solarwatch.security.WebSecurityConfig.WebSecurityConfig(org.springframework.security.core.userdetails.UserDetailsService, com.codecool.solarwatch.security.jwt.AuthEntryPointJwt, com.codecool.solarwatch.security.jwt.JwtUtils)DECLARATION®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java (2ã
-Qcom.codecool.solarwatch.security.WebSecurityConfig.authenticationJwtTokenFilter()DECLARATION®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java# #(72Ö
-Kcom.codecool.solarwatch.security.WebSecurityConfig.authenticationProvider()DECLARATION®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java'% '(;2√
-àcom.codecool.solarwatch.security.WebSecurityConfig.filterChain(org.springframework.security.config.annotation.web.builders.HttpSecurity)DECLARATION®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java1 1(*2˛
-Dcom.codecool.solarwatch.security.WebSecurityConfig.passwordEncoder()DECLARATION®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.javaD D(*2Ï
-±com.codecool.solarwatch.security.WebSecurityConfig.authenticationManager(org.springframework.security.config.annotation.authentication.configuration.AuthenticationConfiguration)DECLARATION®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.javaI! I(62ã
-Qcom.codecool.solarwatch.security.WebSecurityConfig?userDetailsService@23.37:23.55DECLARATION®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java% (72å
-Rcom.codecool.solarwatch.security.WebSecurityConfig?unauthorizedHandler@25.36:25.55DECLARATION®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java$ (72Å
-Gcom.codecool.solarwatch.security.WebSecurityConfig?jwtUtils@27.27:27.35DECLARATION®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java (#¡"
-Ìcom.codecool.solarwatch.security.WebSecurityConfig.WebSecurityConfig(org.springframework.security.core.userdetails.UserDetailsService, com.codecool.solarwatch.security.jwt.AuthEntryPointJwt, com.codecool.solarwatch.security.jwt.JwtUtils)CONSTRUCTOR®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java ("¡
-declarationString´<mark class="modifier">public </mark><mark class="method">WebSecurityConfig</mark>(UserDetailsService userDetailsService<mark class="modifier"><mark class="modifier">,</mark></mark> AuthEntryPointJwt unauthorizedHandler<mark class="modifier"><mark class="modifier">,</mark></mark> JwtUtils jwtUtils)*WebSecurityConfig2¥
-Äcom.codecool.solarwatch.security.WebSecurityConfig.WebSecurityConfig(org.springframework.security.core.userdetails.UserDetailsService, com.codecool.solarwatch.security.jwt.AuthEntryPointJwt, com.codecool.solarwatch.security.jwt.JwtUtils)!userDetailsServiceCALL®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java" (42µ
-Åcom.codecool.solarwatch.security.WebSecurityConfig.WebSecurityConfig(org.springframework.security.core.userdetails.UserDetailsService, com.codecool.solarwatch.security.jwt.AuthEntryPointJwt, com.codecool.solarwatch.security.jwt.JwtUtils)!unauthorizedHandlerCALL®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java# (62™
-ˆcom.codecool.solarwatch.security.WebSecurityConfig.WebSecurityConfig(org.springframework.security.core.userdetails.UserDetailsService, com.codecool.solarwatch.security.jwt.AuthEntryPointJwt, com.codecool.solarwatch.security.jwt.JwtUtils)!jwtUtilsCALL®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java   ( 2Ñ
-Qcom.codecool.solarwatch.security.WebSecurityConfig?userDetailsService@23.37:23.55CALL®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java (2Ö
-Rcom.codecool.solarwatch.security.WebSecurityConfig?unauthorizedHandler@25.36:25.55CALL®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java ( 2˙
-Gcom.codecool.solarwatch.security.WebSecurityConfig?jwtUtils@27.27:27.35CALL®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java   (2π
-Äcom.codecool.solarwatch.security.WebSecurityConfig.WebSecurityConfig(org.springframework.security.core.userdetails.UserDetailsService, com.codecool.solarwatch.security.jwt.AuthEntryPointJwt, com.codecool.solarwatch.security.jwt.JwtUtils)!userDetailsService	PARAMETER®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java0 (B2∫
-Åcom.codecool.solarwatch.security.WebSecurityConfig.WebSecurityConfig(org.springframework.security.core.userdetails.UserDetailsService, com.codecool.solarwatch.security.jwt.AuthEntryPointJwt, com.codecool.solarwatch.security.jwt.JwtUtils)!unauthorizedHandler	PARAMETER®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.javaV (i2Ø
-ˆcom.codecool.solarwatch.security.WebSecurityConfig.WebSecurityConfig(org.springframework.security.core.userdetails.UserDetailsService, com.codecool.solarwatch.security.jwt.AuthEntryPointJwt, com.codecool.solarwatch.security.jwt.JwtUtils)!jwtUtils	PARAMETER®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.javat (|2Ï
-2com.codecool.solarwatch.security.WebSecurityConfigRETURN_TYPE®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java (≠
-Äcom.codecool.solarwatch.security.WebSecurityConfig.WebSecurityConfig(org.springframework.security.core.userdetails.UserDetailsService, com.codecool.solarwatch.security.jwt.AuthEntryPointJwt, com.codecool.solarwatch.security.jwt.JwtUtils)!userDetailsService	PARAMETER®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java0 (B"
-typeUserDetailsService"
-isFinalfalse":
-declarationString%UserDetailsService userDetailsService*userDetailsService2Û
-@org.springframework.security.core.userdetails.UserDetailsServiceTYPE®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java (/§
-Åcom.codecool.solarwatch.security.WebSecurityConfig.WebSecurityConfig(org.springframework.security.core.userdetails.UserDetailsService, com.codecool.solarwatch.security.jwt.AuthEntryPointJwt, com.codecool.solarwatch.security.jwt.JwtUtils)!unauthorizedHandler	PARAMETER®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.javaV (i"
-typeAuthEntryPointJwt"
-isFinalfalse":
-declarationString%AuthEntryPointJwt unauthorizedHandler*unauthorizedHandler2È
-6com.codecool.solarwatch.security.jwt.AuthEntryPointJwtTYPE®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.javaD (UË
-ˆcom.codecool.solarwatch.security.WebSecurityConfig.WebSecurityConfig(org.springframework.security.core.userdetails.UserDetailsService, com.codecool.solarwatch.security.jwt.AuthEntryPointJwt, com.codecool.solarwatch.security.jwt.JwtUtils)!jwtUtils	PARAMETER®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.javat (|"
-typeJwtUtils"
-isFinalfalse"&
-declarationStringJwtUtils jwtUtils*jwtUtils2‡
--com.codecool.solarwatch.security.jwt.JwtUtilsTYPE®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.javak (sÒ
-Qcom.codecool.solarwatch.security.WebSecurityConfig.authenticationJwtTokenFilter()METHOD®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java# #(7"
-isFinalfalse"Ñ
-declarationStringo<mark class="modifier">public </mark>AuthTokenFilter <mark class="method">authenticationJwtTokenFilter</mark>()"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typeAuthTokenFilter*authenticationJwtTokenFilter2È
-µcom.codecool.solarwatch.security.jwt.AuthTokenFilter.AuthTokenFilter(com.codecool.solarwatch.security.jwt.JwtUtils, org.springframework.security.core.userdetails.UserDetailsService)CALL®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java$ $("2˙
-Gcom.codecool.solarwatch.security.WebSecurityConfig?jwtUtils@27.27:27.35CALL®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java$# $(+2Ñ
-Qcom.codecool.solarwatch.security.WebSecurityConfig?userDetailsService@23.37:23.55CALL®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java$- $(?2Ó
-4com.codecool.solarwatch.security.jwt.AuthTokenFilterRETURN_TYPE®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java# #(à
-Kcom.codecool.solarwatch.security.WebSecurityConfig.authenticationProvider()METHOD®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java'% '(;"
-isFinalfalse"à
-declarationStrings<mark class="modifier">public </mark>DaoAuthenticationProvider <mark class="method">authenticationProvider</mark>()"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"!
-typeDaoAuthenticationProvider*authenticationProvider2˜
-Dcom.codecool.solarwatch.security.WebSecurityConfig.passwordEncoder()CALL®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java+( +(72ó
-dcom.codecool.solarwatch.security.WebSecurityConfig.authenticationProvider()?authProvider@40.34:40.46CALL®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java* *(2Ñ
-Qcom.codecool.solarwatch.security.WebSecurityConfig?userDetailsService@23.37:23.55CALL®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java*+ *(=2ó
-dcom.codecool.solarwatch.security.WebSecurityConfig.authenticationProvider()?authProvider@40.34:40.46CALL®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java+ +(2ó
-dcom.codecool.solarwatch.security.WebSecurityConfig.authenticationProvider()?authProvider@40.34:40.46CALL®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java- -(2û
-dcom.codecool.solarwatch.security.WebSecurityConfig.authenticationProvider()?authProvider@40.34:40.46DECLARATION®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java(" ((.2É
-Iorg.springframework.security.authentication.dao.DaoAuthenticationProviderRETURN_TYPE®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java' '($˛
-dcom.codecool.solarwatch.security.WebSecurityConfig.authenticationProvider()?authProvider@40.34:40.46VARIABLE®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java(" ((."!
-typeDaoAuthenticationProvider"
-isFinalfalse"û
-declarationStringà<mark class="modifier"> </mark>DaoAuthenticationProvider <mark class="class-field">authProvider</mark> = new DaoAuthenticationProvider()*authProvider2¸
-Iorg.springframework.security.authentication.dao.DaoAuthenticationProviderTYPE®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java( ((!ñ*
-àcom.codecool.solarwatch.security.WebSecurityConfig.filterChain(org.springframework.security.config.annotation.web.builders.HttpSecurity)METHOD®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java1 1(*"
-isFinalfalse"Ä
-declarationStringÍ<mark class="annotation">@Bean</mark> <br><mark class="modifier">public </mark>SecurityFilterChain <mark class="method">filterChain</mark>(HttpSecurity http)<mark class="modifier"> <mark class="modifier">throws</mark> </mark>Exception"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typeSecurityFilterChain*filterChain2˛
-Kcom.codecool.solarwatch.security.WebSecurityConfig.authenticationProvider()CALL®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java=$ =(:2Ñ
-Qcom.codecool.solarwatch.security.WebSecurityConfig.authenticationJwtTokenFilter()CALL®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java> >(92¡
-çcom.codecool.solarwatch.security.WebSecurityConfig.filterChain(org.springframework.security.config.annotation.web.builders.HttpSecurity)!httpCALL®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java3 3(2“
-ûcom.codecool.solarwatch.security.WebSecurityConfig.filterChain(org.springframework.security.config.annotation.web.builders.HttpSecurity)?exception@53.35:53.44CALL®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java50 5(92Ö
-Rcom.codecool.solarwatch.security.WebSecurityConfig?unauthorizedHandler@25.36:25.55CALL®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java5S 5(f2–
-úcom.codecool.solarwatch.security.WebSecurityConfig.filterChain(org.springframework.security.config.annotation.web.builders.HttpSecurity)?session@54.35:54.42CALL®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java6. 6(52Õ
-ôcom.codecool.solarwatch.security.WebSecurityConfig.filterChain(org.springframework.security.config.annotation.web.builders.HttpSecurity)?auth@55.39:55.43CALL®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java8 8(2¡
-çcom.codecool.solarwatch.security.WebSecurityConfig.filterChain(org.springframework.security.config.annotation.web.builders.HttpSecurity)!httpCALL®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java= =(2¡
-çcom.codecool.solarwatch.security.WebSecurityConfig.filterChain(org.springframework.security.config.annotation.web.builders.HttpSecurity)!httpCALL®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java> >(2¡
-çcom.codecool.solarwatch.security.WebSecurityConfig.filterChain(org.springframework.security.config.annotation.web.builders.HttpSecurity)!httpCALL®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java@ @(2∆
-çcom.codecool.solarwatch.security.WebSecurityConfig.filterChain(org.springframework.security.config.annotation.web.builders.HttpSecurity)!http	PARAMETER®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java18 1(<2Ÿ
-ûcom.codecool.solarwatch.security.WebSecurityConfig.filterChain(org.springframework.security.config.annotation.web.builders.HttpSecurity)?exception@53.35:53.44DECLARATION®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java5# 5(,2◊
-úcom.codecool.solarwatch.security.WebSecurityConfig.filterChain(org.springframework.security.config.annotation.web.builders.HttpSecurity)?session@54.35:54.42DECLARATION®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java6# 6(*2‘
-ôcom.codecool.solarwatch.security.WebSecurityConfig.filterChain(org.springframework.security.config.annotation.web.builders.HttpSecurity)?auth@55.39:55.43DECLARATION®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java7' 7(+2Ó
-4org.springframework.security.web.SecurityFilterChainRETURN_TYPE®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java1 1(ö
-çcom.codecool.solarwatch.security.WebSecurityConfig.filterChain(org.springframework.security.config.annotation.web.builders.HttpSecurity)!http	PARAMETER®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java18 1(<"
-typeHttpSecurity"
-isFinalfalse"&
-declarationStringHttpSecurity http*http2˚
-Horg.springframework.security.config.annotation.web.builders.HttpSecurityTYPE®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java1+ 1(7§
-ûcom.codecool.solarwatch.security.WebSecurityConfig.filterChain(org.springframework.security.config.annotation.web.builders.HttpSecurity)?exception@53.35:53.44VARIABLE®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java5# 5(,"
-type"
-isFinalfalse"
-declarationString
- exception*	exception2TYPEû
-úcom.codecool.solarwatch.security.WebSecurityConfig.filterChain(org.springframework.security.config.annotation.web.builders.HttpSecurity)?session@54.35:54.42VARIABLE®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java6# 6(*"
-type"
-isFinalfalse"
-declarationString session*session2TYPEï
-ôcom.codecool.solarwatch.security.WebSecurityConfig.filterChain(org.springframework.security.config.annotation.web.builders.HttpSecurity)?auth@55.39:55.43VARIABLE®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java7' 7(+"
-type"
-isFinalfalse"
-declarationString auth*auth2TYPEç
-Dcom.codecool.solarwatch.security.WebSecurityConfig.passwordEncoder()METHOD®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.javaD D(*"
-isFinalfalse"¢
-declarationStringå<mark class="annotation">@Bean</mark> <br><mark class="modifier">public </mark>PasswordEncoder <mark class="method">passwordEncoder</mark>()"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typePasswordEncoder*passwordEncoder2ˆ
-<org.springframework.security.crypto.password.PasswordEncoderRETURN_TYPE®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.javaD D(©
-±com.codecool.solarwatch.security.WebSecurityConfig.authenticationManager(org.springframework.security.config.annotation.authentication.configuration.AuthenticationConfiguration)METHOD®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.javaI! I(6"
-isFinalfalse"≤
-declarationStringú<mark class="annotation">@Bean</mark> <br><mark class="modifier">public </mark>AuthenticationManager <mark class="method">authenticationManager</mark>(AuthenticationConfiguration authenticationConfiguration)<mark class="modifier"> <mark class="modifier">throws</mark> </mark>Exception"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typeAuthenticationManager*authenticationManager2Å
-Õcom.codecool.solarwatch.security.WebSecurityConfig.authenticationManager(org.springframework.security.config.annotation.authentication.configuration.AuthenticationConfiguration)!authenticationConfigurationCALL®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.javaJ J(*2Ü
-Õcom.codecool.solarwatch.security.WebSecurityConfig.authenticationManager(org.springframework.security.config.annotation.authentication.configuration.AuthenticationConfiguration)!authenticationConfiguration	PARAMETER®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.javaIS I(n2˚
-Aorg.springframework.security.authentication.AuthenticationManagerRETURN_TYPE®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.javaI I( ≈
-Õcom.codecool.solarwatch.security.WebSecurityConfig.authenticationManager(org.springframework.security.config.annotation.authentication.configuration.AuthenticationConfiguration)!authenticationConfiguration	PARAMETER®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.javaIS I(n"#
-typeAuthenticationConfiguration"
-isFinalfalse"L
-declarationString7AuthenticationConfiguration authenticationConfiguration*authenticationConfiguration2ö
-gorg.springframework.security.config.annotation.authentication.configuration.AuthenticationConfigurationTYPE®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.javaI7 I(Rã
-Qcom.codecool.solarwatch.security.WebSecurityConfig?userDetailsService@23.37:23.55VALUE®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java% (7"
-isFinaltrue"
-typeUserDetailsService"¶
-declarationStringê<mark class="modifier">private </mark><mark class="modifier">final </mark>UserDetailsService <mark class="class-field">userDetailsService</mark>"
-isStaticfalse"
-accessprivate*userDetailsService2Û
-@org.springframework.security.core.userdetails.UserDetailsServiceTYPE®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java ($Ç
-Rcom.codecool.solarwatch.security.WebSecurityConfig?unauthorizedHandler@25.36:25.55VALUE®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java$ (7"
-isFinaltrue"
-typeAuthEntryPointJwt"¶
-declarationStringê<mark class="modifier">private </mark><mark class="modifier">final </mark>AuthEntryPointJwt <mark class="class-field">unauthorizedHandler</mark>"
-isStaticfalse"
-accessprivate*unauthorizedHandler2È
-6com.codecool.solarwatch.security.jwt.AuthEntryPointJwtTYPE®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java (#≈
-Gcom.codecool.solarwatch.security.WebSecurityConfig?jwtUtils@27.27:27.35VALUE®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java (#"
-isFinaltrue"
-typeJwtUtils"ë
-declarationString|<mark class="modifier">private </mark><mark class="modifier">final </mark>JwtUtils <mark class="class-field">jwtUtils</mark>"
-isStaticfalse"
-accessprivate*jwtUtils2‡
--com.codecool.solarwatch.security.jwt.JwtUtilsTYPE®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\WebSecurityConfig.java (

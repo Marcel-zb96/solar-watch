@@ -1,13 +1,0 @@
-
-ªC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\GeoCoordinateList.javaí
-?com.codecool.solarwatch.model.location_detail.GeoCoordinateListCLASSµ
-ªC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\GeoCoordinateList.java ("8
-package-com.codecool.solarwatch.model.location_detail"
-isFinalfalse"
-inner classfalse"
-
-isAbstractfalse"€
-declarationStringê<mark class="annotation">@JsonIgnoreProperties(ignoreUnknown = true)</mark> <br><mark class="modifier">public </mark><mark class="modifier">class </mark>GeoCoordinateList<mark class="modifier"> extends </mark>ArrayList<GeoCoordinates>"
-accesspublic*GeoCoordinateList2Ë
-	ArrayListEXTENDµ
-ªC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\location_detail\GeoCoordinateList.java' (0

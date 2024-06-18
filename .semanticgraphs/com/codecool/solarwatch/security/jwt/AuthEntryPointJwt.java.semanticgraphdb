@@ -1,70 +1,0 @@
-
-°C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthEntryPointJwt.javaˆ
-6com.codecool.solarwatch.security.jwt.AuthEntryPointJwtCLASS¨
-°C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthEntryPointJwt.java ("/
-package$com.codecool.solarwatch.security.jwt"
-isFinalfalse"
-inner classfalse"
-
-isAbstractfalse"‰
-declarationStringŒ<mark class="annotation">@Component</mark> <br><mark class="modifier">public </mark><mark class="modifier">class </mark>AuthEntryPointJwt<mark class="modifier"><br>implements </mark>AuthenticationEntryPoint"
-accesspublic*AuthEntryPointJwt2å
-Õcom.codecool.solarwatch.security.jwt.AuthEntryPointJwt.commence(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, org.springframework.security.core.AuthenticationException)DECLARATION¨
-°C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthEntryPointJwt.java (2á
-Icom.codecool.solarwatch.security.jwt.AuthEntryPointJwt?logger@16.32:16.38DECLARATION¨
-°C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthEntryPointJwt.java  (&2Ú
-9org.springframework.security.web.AuthenticationEntryPointEXTEND¨
-°C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthEntryPointJwt.java* (B…
-Õcom.codecool.solarwatch.security.jwt.AuthEntryPointJwt.commence(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, org.springframework.security.core.AuthenticationException)METHOD¨
-°C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthEntryPointJwt.java ("
-isFinalfalse"¶
-declarationStringê<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">commence</mark>(HttpServletRequest request<mark class="modifier"><mark class="modifier">,</mark></mark> HttpServletResponse response<mark class="modifier"><mark class="modifier">,</mark></mark> AuthenticationException authException)<mark class="modifier"> <mark class="modifier">throws</mark> </mark>IOException<mark class="modifier"><mark class="modifier">,</mark></mark> ServletException"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typevoid*commence2Ä
-Icom.codecool.solarwatch.security.jwt.AuthEntryPointJwt?logger@16.32:16.38CALL¨
-°C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthEntryPointJwt.java (2ì
-€com.codecool.solarwatch.security.jwt.AuthEntryPointJwt.commence(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, org.springframework.security.core.AuthenticationException)!authExceptionCALL¨
-°C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthEntryPointJwt.java/ (<2é
-÷com.codecool.solarwatch.security.jwt.AuthEntryPointJwt.commence(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, org.springframework.security.core.AuthenticationException)!responseCALL¨
-°C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthEntryPointJwt.java (2í
-’com.codecool.solarwatch.security.jwt.AuthEntryPointJwt.commence(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, org.springframework.security.core.AuthenticationException)!request	PARAMETER¨
-°C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthEntryPointJwt.java, (32ì
-÷com.codecool.solarwatch.security.jwt.AuthEntryPointJwt.commence(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, org.springframework.security.core.AuthenticationException)!response	PARAMETER¨
-°C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthEntryPointJwt.javaI (Q2ò
-€com.codecool.solarwatch.security.jwt.AuthEntryPointJwt.commence(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, org.springframework.security.core.AuthenticationException)!authException	PARAMETER¨
-°C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthEntryPointJwt.javak (x2¬
-voidRETURN_TYPE¨
-°C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthEntryPointJwt.java (€
-’com.codecool.solarwatch.security.jwt.AuthEntryPointJwt.commence(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, org.springframework.security.core.AuthenticationException)!request	PARAMETER¨
-°C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthEntryPointJwt.java, (3"
-typeHttpServletRequest"
-isFinalfalse"/
-declarationStringHttpServletRequest request*request2ﬁ
-'jakarta.servlet.http.HttpServletRequestTYPE¨
-°C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthEntryPointJwt.java (+·
-÷com.codecool.solarwatch.security.jwt.AuthEntryPointJwt.commence(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, org.springframework.security.core.AuthenticationException)!response	PARAMETER¨
-°C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthEntryPointJwt.javaI (Q"
-typeHttpServletResponse"
-isFinalfalse"1
-declarationStringHttpServletResponse response*response2ﬂ
-(jakarta.servlet.http.HttpServletResponseTYPE¨
-°C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthEntryPointJwt.java5 (Hâ
-€com.codecool.solarwatch.security.jwt.AuthEntryPointJwt.commence(jakarta.servlet.http.HttpServletRequest, jakarta.servlet.http.HttpServletResponse, org.springframework.security.core.AuthenticationException)!authException	PARAMETER¨
-°C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthEntryPointJwt.javak (x"
-typeAuthenticationException"
-isFinalfalse":
-declarationString%AuthenticationException authException*authException2
-9org.springframework.security.core.AuthenticationExceptionTYPE¨
-°C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthEntryPointJwt.javaS (jÉ
-Icom.codecool.solarwatch.security.jwt.AuthEntryPointJwt?logger@16.32:16.38VALUE¨
-°C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthEntryPointJwt.java  (&"
-isFinaltrue"
-typeLogger"Á
-declarationString—<mark class="modifier">private </mark><mark class="modifier">static </mark><mark class="modifier">final </mark>Logger <mark class="class-field">logger</mark> = LoggerFactory.getLogger(AuthEntryPointJwt.class);"
-isStatictrue"
-accessprivate*logger2«
-org.slf4j.LoggerTYPE¨
-°C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\security\jwt\AuthEntryPointJwt.java (

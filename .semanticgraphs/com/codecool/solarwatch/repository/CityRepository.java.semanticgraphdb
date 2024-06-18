@@ -1,55 +1,0 @@
-
-úC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\CityRepository.javaõ
-1com.codecool.solarwatch.repository.CityRepositoryTRAITß
-úC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\CityRepository.java	 	("-
-package"com.codecool.solarwatch.repository"
-isFinalfalse"
-inner classfalse"
-
-isAbstractfalse"·
-declarationStringÀ<mark class="annotation">@Repository</mark> <br><mark class="modifier">public </mark><mark class="modifier">interface </mark>CityRepository<mark class="modifier"> extends </mark>JpaRepository<City, Long>"
-accesspublic*CityRepository2å
-Scom.codecool.solarwatch.repository.CityRepository.getCitiesByName(java.lang.String)DECLARATIONß
-úC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\CityRepository.java
- 
-("2È
-5org.springframework.data.jpa.repository.JpaRepositoryEXTENDß
-úC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\CityRepository.java	( 	(52Ù
-2com.codecool.solarwatch.model.location_detail.CityEXTEND_TYPE_ARGUMENTß
-úC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\CityRepository.java	6 	(:2–
-java.lang.LongEXTEND_TYPE_ARGUMENTß
-úC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\CityRepository.java	< 	(@‡	
-Scom.codecool.solarwatch.repository.CityRepository.getCitiesByName(java.lang.String)METHODß
-úC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\CityRepository.java
- 
-(""
-isFinalfalse"Å
-declarationStringl<mark class="modifier"> </mark>Optional&lt;City&gt; <mark class="method">getCitiesByName</mark>(String name)"
-isStaticfalse"
-accesspackage_private"
-
-isAbstractfalse"
-typeOptional<City>*getCitiesByName2è
-Xcom.codecool.solarwatch.repository.CityRepository.getCitiesByName(java.lang.String)!name	PARAMETERß
-úC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\CityRepository.java
-* 
-(.2À
-java.util.OptionalRETURN_TYPEß
-úC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\CityRepository.java
- 
-(2Ù
-2com.codecool.solarwatch.model.location_detail.CityRETURN_TYPE_ARGUMENTß
-úC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\CityRepository.java
- 
-(û
-Xcom.codecool.solarwatch.repository.CityRepository.getCitiesByName(java.lang.String)!name	PARAMETERß
-úC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\CityRepository.java
-* 
-(."
-typeString"
-isFinalfalse" 
-declarationStringString name*name2¬
-java.lang.StringTYPEß
-úC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\CityRepository.java
-# 
-()

@@ -1,197 +1,0 @@
-
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java∂
-<com.codecool.solarwatch.model.solar_detail.SunriseSunsetInfoCLASS≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java
- 
-("5
-package*com.codecool.solarwatch.model.solar_detail"
-isFinalfalse"
-inner classfalse"
-
-isAbstractfalse"‡
-declarationString <mark class="annotation">@Entity</mark> <br><mark class="annotation">@Table(name = "sunrise-sunset")</mark> <br><mark class="modifier">public </mark><mark class="modifier">class </mark>SunriseSunsetInfo"
-accesspublic*SunriseSunsetInfo2Ü
-¡com.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo.SunriseSunsetInfo(java.time.LocalDate, java.time.LocalTime, java.time.LocalTime, com.codecool.solarwatch.model.location_detail.City)DECLARATION≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java (2î
-Pcom.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo.SunriseSunsetInfo()DECLARATION≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java (2ä
-Fcom.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo.getDate()DECLARATION≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java" "(2ç
-Icom.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo.getSunrise()DECLARATION≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java& &(2å
-Hcom.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo.getSunset()DECLARATION≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java* *(2ä
-Fcom.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo.getCity()DECLARATION≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java. .(2è
-Kcom.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo?id@14.17:14.19DECLARATION≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java (2ë
-Mcom.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo?date@15.22:15.26DECLARATION≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java (2î
-Pcom.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo?sunrise@16.22:16.29DECLARATION≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java (2ì
-Ocom.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo?sunset@17.22:17.28DECLARATION≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java (2ë
-Mcom.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo?city@21.17:21.21DECLARATION≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java (ä)
-¡com.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo.SunriseSunsetInfo(java.time.LocalDate, java.time.LocalTime, java.time.LocalTime, com.codecool.solarwatch.model.location_detail.City)CONSTRUCTOR≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java ("‹
-declarationString∆<mark class="modifier">public </mark><mark class="method">SunriseSunsetInfo</mark>(LocalDate date<mark class="modifier"><mark class="modifier">,</mark></mark> LocalTime sunrise<mark class="modifier"><mark class="modifier">,</mark></mark> LocalTime sunset<mark class="modifier"><mark class="modifier">,</mark></mark> City city)*SunriseSunsetInfo2Ñ
-∆com.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo.SunriseSunsetInfo(java.time.LocalDate, java.time.LocalTime, java.time.LocalTime, com.codecool.solarwatch.model.location_detail.City)!dateCALL≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java (2á
-…com.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo.SunriseSunsetInfo(java.time.LocalDate, java.time.LocalTime, java.time.LocalTime, com.codecool.solarwatch.model.location_detail.City)!sunriseCALL≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java (2Ü
-»com.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo.SunriseSunsetInfo(java.time.LocalDate, java.time.LocalTime, java.time.LocalTime, com.codecool.solarwatch.model.location_detail.City)!sunsetCALL≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java (2Ñ
-∆com.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo.SunriseSunsetInfo(java.time.LocalDate, java.time.LocalTime, java.time.LocalTime, com.codecool.solarwatch.model.location_detail.City)!cityCALL≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java (2ä
-Mcom.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo?date@15.22:15.26CALL≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java (2ç
-Pcom.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo?sunrise@16.22:16.29CALL≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java (2å
-Ocom.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo?sunset@17.22:17.28CALL≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java (2ä
-Mcom.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo?city@21.17:21.21CALL≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java (2â
-∆com.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo.SunriseSunsetInfo(java.time.LocalDate, java.time.LocalTime, java.time.LocalTime, com.codecool.solarwatch.model.location_detail.City)!date	PARAMETER≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java' (+2å
-…com.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo.SunriseSunsetInfo(java.time.LocalDate, java.time.LocalTime, java.time.LocalTime, com.codecool.solarwatch.model.location_detail.City)!sunrise	PARAMETER≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java7 (>2ã
-»com.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo.SunriseSunsetInfo(java.time.LocalDate, java.time.LocalTime, java.time.LocalTime, com.codecool.solarwatch.model.location_detail.City)!sunset	PARAMETER≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.javaJ (P2â
-∆com.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo.SunriseSunsetInfo(java.time.LocalDate, java.time.LocalTime, java.time.LocalTime, com.codecool.solarwatch.model.location_detail.City)!city	PARAMETER≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.javaW ([2Ä
-<com.codecool.solarwatch.model.solar_detail.SunriseSunsetInfoRETURN_TYPE≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java (¨
-∆com.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo.SunriseSunsetInfo(java.time.LocalDate, java.time.LocalTime, java.time.LocalTime, com.codecool.solarwatch.model.location_detail.City)!date	PARAMETER≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java' (+"
-type	LocalDate"
-isFinalfalse"#
-declarationStringLocalDate date*date2–
-java.time.LocalDateTYPE≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java (&µ
-…com.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo.SunriseSunsetInfo(java.time.LocalDate, java.time.LocalTime, java.time.LocalTime, com.codecool.solarwatch.model.location_detail.City)!sunrise	PARAMETER≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java7 (>"
-type	LocalTime"
-isFinalfalse"&
-declarationStringLocalTime sunrise*sunrise2–
-java.time.LocalTimeTYPE≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java- (6≤
-»com.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo.SunriseSunsetInfo(java.time.LocalDate, java.time.LocalTime, java.time.LocalTime, com.codecool.solarwatch.model.location_detail.City)!sunset	PARAMETER≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.javaJ (P"
-type	LocalTime"
-isFinalfalse"%
-declarationStringLocalTime sunset*sunset2–
-java.time.LocalTimeTYPE≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java@ (I¡
-∆com.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo.SunriseSunsetInfo(java.time.LocalDate, java.time.LocalTime, java.time.LocalTime, com.codecool.solarwatch.model.location_detail.City)!city	PARAMETER≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.javaW (["
-typeCity"
-isFinalfalse"
-declarationString	City city*city2Ô
-2com.codecool.solarwatch.model.location_detail.CityTYPE≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.javaR (Vï
-Pcom.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo.SunriseSunsetInfo()CONSTRUCTOR≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java ("i
-declarationStringT<mark class="modifier">public </mark><mark class="method">SunriseSunsetInfo</mark>()*SunriseSunsetInfo2Ä
-<com.codecool.solarwatch.model.solar_detail.SunriseSunsetInfoRETURN_TYPE≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java (ø
-Fcom.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo.getDate()METHOD≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java" "("
-isFinalfalse"i
-declarationStringT<mark class="modifier">public </mark>LocalDate <mark class="method">getDate</mark>()"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-type	LocalDate*getDate2ä
-Mcom.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo?date@15.22:15.26CALL≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java# #(2◊
-java.time.LocalDateRETURN_TYPE≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java" "(À
-Icom.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo.getSunrise()METHOD≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java& &("
-isFinalfalse"l
-declarationStringW<mark class="modifier">public </mark>LocalTime <mark class="method">getSunrise</mark>()"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-type	LocalTime*
-getSunrise2ç
-Pcom.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo?sunrise@16.22:16.29CALL≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java' '(2◊
-java.time.LocalTimeRETURN_TYPE≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java& &(«
-Hcom.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo.getSunset()METHOD≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java* *("
-isFinalfalse"k
-declarationStringV<mark class="modifier">public </mark>LocalTime <mark class="method">getSunset</mark>()"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-type	LocalTime*	getSunset2å
-Ocom.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo?sunset@17.22:17.28CALL≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java+ +(2◊
-java.time.LocalTimeRETURN_TYPE≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java* *(‘
-Fcom.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo.getCity()METHOD≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java. .("
-isFinalfalse"d
-declarationStringO<mark class="modifier">public </mark>City <mark class="method">getCity</mark>()"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typeCity*getCity2ä
-Mcom.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo?city@21.17:21.21CALL≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java/ /(2ˆ
-2com.codecool.solarwatch.model.location_detail.CityRETURN_TYPE≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java. .(Í
-Kcom.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo?id@14.17:14.19VARIABLE≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java ("
-isFinalfalse"
-typelong"Õ
-declarationString∑<mark class="modifier">private </mark><mark class="modifier">long</mark> <mark class="class-field">id</mark> = GenerationType.SEQUENCE)
-private <mark class="modifier">long</mark> id;"
-isStaticfalse"
-accessprivate*id2¡
-longTYPE≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java (û
-Mcom.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo?date@15.22:15.26VARIABLE≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java ("
-isFinalfalse"
-type	LocalDate"j
-declarationStringU<mark class="modifier">private </mark>LocalDate <mark class="class-field">date</mark>"
-isStaticfalse"
-accessprivate*date2–
-java.time.LocalDateTYPE≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java (ß
-Pcom.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo?sunrise@16.22:16.29VARIABLE≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java ("
-isFinalfalse"
-type	LocalTime"m
-declarationStringX<mark class="modifier">private </mark>LocalTime <mark class="class-field">sunrise</mark>"
-isStaticfalse"
-accessprivate*sunrise2–
-java.time.LocalTimeTYPE≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java (§
-Ocom.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo?sunset@17.22:17.28VARIABLE≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java ("
-isFinalfalse"
-type	LocalTime"l
-declarationStringW<mark class="modifier">private </mark>LocalTime <mark class="class-field">sunset</mark>"
-isStaticfalse"
-accessprivate*sunset2–
-java.time.LocalTimeTYPE≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java (’
-Mcom.codecool.solarwatch.model.solar_detail.SunriseSunsetInfo?city@21.17:21.21VARIABLE≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java ("
-isFinalfalse"
-typeCity"Ü
-declarationStringq<mark class="modifier">private </mark>City <mark class="class-field">city</mark> = "city_id")
-private City city;"
-isStaticfalse"
-accessprivate*city2Ô
-2com.codecool.solarwatch.model.location_detail.CityTYPE≤
-ßC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\model\solar_detail\SunriseSunsetInfo.java (

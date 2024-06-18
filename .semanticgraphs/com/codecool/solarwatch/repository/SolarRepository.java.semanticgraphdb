@@ -1,50 +1,0 @@
-
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\SolarRepository.javaÙ
-2com.codecool.solarwatch.repository.SolarRepositoryTRAIT®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\SolarRepository.java ( "-
-package"com.codecool.solarwatch.repository"
-isFinalfalse"
-inner classfalse"
-
-isAbstractfalse"Ô
-declarationStringŸ<mark class="annotation">@Repository</mark> <br><mark class="modifier">public </mark><mark class="modifier">interface </mark>SolarRepository<mark class="modifier"> extends </mark>JpaRepository<SunriseSunsetInfo, Long>"
-accesspublic*SolarRepository2«
-åcom.codecool.solarwatch.repository.SolarRepository.getByCityAndDate(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)DECLARATION®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\SolarRepository.java  (02Í
-5org.springframework.data.jpa.repository.JpaRepositoryEXTEND®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\SolarRepository.java) (62ˇ
-<com.codecool.solarwatch.model.solar_detail.SunriseSunsetInfoEXTEND_TYPE_ARGUMENT®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\SolarRepository.java7 (H2—
-java.lang.LongEXTEND_TYPE_ARGUMENT®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\SolarRepository.javaJ (Nñ
-åcom.codecool.solarwatch.repository.SolarRepository.getByCityAndDate(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)METHOD®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\SolarRepository.java  (0"
-isFinalfalse"⁄
-declarationStringƒ<mark class="modifier"> </mark>Optional&lt;SunriseSunsetInfo&gt; <mark class="method">getByCityAndDate</mark>(City city<mark class="modifier"><mark class="modifier">,</mark></mark> LocalDate date)"
-isStaticfalse"
-accesspackage_private"
-
-isAbstractfalse"#
-typeOptional<SunriseSunsetInfo>*getByCityAndDate2 
-ëcom.codecool.solarwatch.repository.SolarRepository.getByCityAndDate(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)!city	PARAMETER®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\SolarRepository.java6 (:2 
-ëcom.codecool.solarwatch.repository.SolarRepository.getByCityAndDate(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)!date	PARAMETER®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\SolarRepository.javaF (J2Ã
-java.util.OptionalRETURN_TYPE®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\SolarRepository.java (2ˇ
-<com.codecool.solarwatch.model.solar_detail.SunriseSunsetInfoRETURN_TYPE_ARGUMENT®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\SolarRepository.java (¯
-ëcom.codecool.solarwatch.repository.SolarRepository.getByCityAndDate(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)!city	PARAMETER®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\SolarRepository.java6 (:"
-typeCity"
-isFinalfalse"
-declarationString	City city*city2Â
-2com.codecool.solarwatch.model.location_detail.CityTYPE®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\SolarRepository.java1 (5„
-ëcom.codecool.solarwatch.repository.SolarRepository.getByCityAndDate(com.codecool.solarwatch.model.location_detail.City, java.time.LocalDate)!date	PARAMETER®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\SolarRepository.javaF (J"
-type	LocalDate"
-isFinalfalse"#
-declarationStringLocalDate date*date2∆
-java.time.LocalDateTYPE®
-ùC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\repository\SolarRepository.java< (E

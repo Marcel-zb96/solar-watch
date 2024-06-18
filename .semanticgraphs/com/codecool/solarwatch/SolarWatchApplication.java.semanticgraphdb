@@ -1,35 +1,0 @@
-
-òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\SolarWatchApplication.javañ
--com.codecool.solarwatch.SolarWatchApplicationCLASS£
-òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\SolarWatchApplication.java ("""
-packagecom.codecool.solarwatch"
-isFinalfalse"
-inner classfalse"
-
-isAbstractfalse"Ø
-declarationStringô<mark class="annotation">@SpringBootApplication</mark> <br><mark class="modifier">public </mark><mark class="modifier">class </mark>SolarWatchApplication"
-accesspublic*SolarWatchApplication2˚
-Fcom.codecool.solarwatch.SolarWatchApplication.main(java.lang.String[])DECLARATION£
-òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\SolarWatchApplication.java (√	
-Fcom.codecool.solarwatch.SolarWatchApplication.main(java.lang.String[])METHOD£
-òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\SolarWatchApplication.java ("
-isFinalfalse"≤
-declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
-isStatictrue"
-accesspublic"
-
-isAbstractfalse"
-typevoid*main2˘
-Kcom.codecool.solarwatch.SolarWatchApplication.main(java.lang.String[])!argsCALL£
-òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\SolarWatchApplication.java	; 	(?2˛
-Kcom.codecool.solarwatch.SolarWatchApplication.main(java.lang.String[])!args	PARAMETER£
-òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\SolarWatchApplication.java% ()2π
-voidRETURN_TYPE£
-òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\SolarWatchApplication.java (è
-Kcom.codecool.solarwatch.SolarWatchApplication.main(java.lang.String[])!args	PARAMETER£
-òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\SolarWatchApplication.java% ()"
-typeString[]"
-isFinalfalse""
-declarationStringString[] args*args2¿
-java.lang.String[]TYPE£
-òC:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\SolarWatchApplication.java ($

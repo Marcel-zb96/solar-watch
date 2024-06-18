@@ -1,37 +1,0 @@
-
-¥C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\exception\solar\SolarServiceAdvice.java¢
-:com.codecool.solarwatch.exception.solar.SolarServiceAdviceCLASS°
-¥C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\exception\solar\SolarServiceAdvice.java	 	("2
-package'com.codecool.solarwatch.exception.solar"
-isFinalfalse"
-inner classfalse"
-
-isAbstractfalse"§
-declarationString‘<mark class="annotation">@ControllerAdvice</mark> <br><mark class="modifier">public </mark><mark class="modifier">class </mark>SolarServiceAdvice"
-accesspublic*SolarServiceAdvice2è
-¥com.codecool.solarwatch.exception.solar.SolarServiceAdvice.invalidCoordinatesOrDateHandler(com.codecool.solarwatch.exception.solar.InvalidCoordinatesOrDateException)DECLARATION°
-¥C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\exception\solar\SolarServiceAdvice.java (1Ý
-¥com.codecool.solarwatch.exception.solar.SolarServiceAdvice.invalidCoordinatesOrDateHandler(com.codecool.solarwatch.exception.solar.InvalidCoordinatesOrDateException)METHOD°
-¥C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\exception\solar\SolarServiceAdvice.java (1"
-isFinalfalse"ô
-declarationStringÞ <br><mark class="annotation">@ResponseStatus(HttpStatus.BAD_REQUEST)</mark> <br><mark class="modifier">public </mark>String <mark class="method">invalidCoordinatesOrDateHandler</mark>(InvalidCoordinatesOrDateException ex)"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typeString*invalidCoordinatesOrDateHandler2Û
- java.lang.Throwable.getMessage()CALL°
-¥C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\exception\solar\SolarServiceAdvice.javac (m2ä
-¨com.codecool.solarwatch.exception.solar.SolarServiceAdvice.invalidCoordinatesOrDateHandler(com.codecool.solarwatch.exception.solar.InvalidCoordinatesOrDateException)!exCALL°
-¥C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\exception\solar\SolarServiceAdvice.java` (b2é
-¨com.codecool.solarwatch.exception.solar.SolarServiceAdvice.invalidCoordinatesOrDateHandler(com.codecool.solarwatch.exception.solar.InvalidCoordinatesOrDateException)!ex	PARAMETER°
-¥C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\exception\solar\SolarServiceAdvice.javaT (V2Ò
-java.lang.StringRETURN_TYPE°
-¥C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\exception\solar\SolarServiceAdvice.java (ì
-¨com.codecool.solarwatch.exception.solar.SolarServiceAdvice.invalidCoordinatesOrDateHandler(com.codecool.solarwatch.exception.solar.InvalidCoordinatesOrDateException)!ex	PARAMETER°
-¥C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\exception\solar\SolarServiceAdvice.javaT (V")
-type!InvalidCoordinatesOrDateException"
-isFinalfalse"9
-declarationString$InvalidCoordinatesOrDateException ex*ex2„
-Icom.codecool.solarwatch.exception.solar.InvalidCoordinatesOrDateExceptionTYPE°
-¥C:\Users\brozm\Documents\Codecool\Advanced\Docker\solar-watch-database-java-Marcel-zb96\src\main\java\com\codecool\solarwatch\exception\solar\SolarServiceAdvice.java2 (S
